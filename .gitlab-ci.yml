@@ -11,7 +11,8 @@ test:
 
 pages:
   script:
-  - hugo --working-directory Collectif-Foncier --themesDir ../..
+  - cd  Collectif-Foncier
+  - hugo --themesDir ../..
   artifacts:
     paths:
     - public
