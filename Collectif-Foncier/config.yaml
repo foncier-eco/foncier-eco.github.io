@@ -2,9 +2,8 @@
 
 baseURL: https://know-rmandie.gitlab.io/Collectif-Foncier
 title: Collectif Foncier
-theme: hugo-book
 disableKinds: ['taxonomy', 'taxonomyTerm']
-# themesDir: ../..
+themesDir: ../..
 
 # Book configuration
 disablePathToLower: true
