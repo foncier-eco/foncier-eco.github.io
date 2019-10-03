@@ -10,9 +10,8 @@ test:
   - master
 
 pages:
-  working-directory: Collectif-Foncier
   script:
-  - hugo --themesDir ../..
+  - hugo --working-directory Collectif-Foncier --themesDir ../..
   artifacts:
     paths:
     - public
