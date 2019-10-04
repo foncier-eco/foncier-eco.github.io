@@ -13,4 +13,4 @@ headless: true
 - [Advanced]({{< relref "/docs/more-examples/advanced" >}})  
 - [**Posts**]({{< relref "/posts" >}})
 - [**Post**]({{< relref "/post" >}})
-- [**Pages**]({{< relref "/pages" >}})
+- [**Pages**]({{< relref "/page" >}})
