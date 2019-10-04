@@ -11,4 +11,6 @@ headless: true
 - [Server]({{< relref "/docs/more-examples/server" >}})
 - [Client]({{< relref "/docs/more-examples/client" >}})
 - [Advanced]({{< relref "/docs/more-examples/advanced" >}})  
-- [**Blog**]({{< relref "/posts" >}})
+- [**Posts**]({{< relref "/posts" >}})
+- [**Post**]({{< relref "/post" >}})
+- [**Pages**]({{< relref. "/pages" >}})
