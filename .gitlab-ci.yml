@@ -1,3 +1,4 @@
+# All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry
 image: registry.gitlab.com/pages/hugo:latest
 
 variables:
@@ -11,8 +12,7 @@ test:
 
 pages:
   script:
-  - cd  Collectif-Foncier
-  - hugo --themesDir ../..
+  - hugo
   artifacts:
     paths:
     - public
