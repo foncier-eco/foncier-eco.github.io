@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block source %}
+  {% if page %}
+    {% if page.meta %}
+      {% if page.meta.authors or page.meta.url or page.meta.date %}
+        <div class="admonition info">
+        <p class="admonition-title">A propos</p>
+        <p>{% if page.meta.authors %}{{ page.meta.authors }}{% endif %}
+           {% if page.meta.authors and page.meta.date %} - {% endif %}
+           {% if page.meta.date %}{{ page.meta.date }}{% endif %}
+           {% if page.meta.authors or page.meta.date %}<br/>{% endif %}
+           {% if page.meta.url %}
+           <a href="{{ page.meta.url }}">Plus d'informations</a>
+           {% endif %}
+         </p>
+        </div>
+      {% endif %}
+      {% if page.meta.source %}
+        <h2 id="__source">{{ lang.t("meta.source") }}</h2>
+        {% set repo = config.repo_url %}
+        {% if repo | last == "/" %}
+          {% set repo = repo[:-1] %}
+        {% endif %}
+        {% set path = page.meta.path | default([""]) %}
+        {% set file = page.meta.source %}
+        <a href="{{ [repo, path, file] | join('/') }}" title="{{ file }}" class="md-source-file">
+        {{ file }}
+        </a>
+      {% endif %}
+    {% endif %}
+  {% endif %}
+{% endblock %}

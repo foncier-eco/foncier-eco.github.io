@@ -1,7 +1,6 @@
-authors: AdCF
-  Cerema
+authors: AdCF, Cerema
 title: Sites d'activité économique et immobilier d'entreprise
-date: 20181210
+date: décembre 2018
 summary: Les résultats de l'enquête nationale réalisée auprès des communautés et des métropoles avec l'Adcf montrent la nécessité de repenser le rôle des sites d'activités sur les territoires. Cette évolution passe par la requalification de nombreux sites, par une gestion patrimoniale des zones dédiées aux entreprises et par une meilleure intégration urbaine de ces espaces économiques dans la ville.
 tags: économie étude
 url: https://www.cerema.fr/fr/centre-ressources/boutique/sites-activite-economique-immobilier-entreprise

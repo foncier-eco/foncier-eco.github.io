@@ -2,23 +2,26 @@
 site_name: Collectif Foncier
 site_description: 'Une expérimentation pour un usage sobre et efficace du foncier par le partage de ressources'
 site_url: 'https://know-rmandie.gitlab.io/Collectif-Foncier'
-
 # Copyright
 copyright: 'Copyright &copy; 2019 - 2020 Collectif Foncier'
-
 # Dépôt
 repo_name: 'know-rmandie/Collectif-Foncier'
 repo_url: 'https://gitlab.com/know-rmandie/Collectif-Foncier'
-
-# Configuration
+# Configuration Personalisation
 theme:
   name: material
-  language: 'fr'
+  custom_dir: theme
+  language: fr
+  font: false
   feature:
     tabs: true
   palette:
     primary: 'deep puple'
     accent: 'green'
+
+extra_css:
+  - ../../theme/style.css
+
 
 # Extensions
 markdown_extensions:
