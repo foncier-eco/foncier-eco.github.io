@@ -1,21 +1,9 @@
-# Welcome to MkDocs
+# Collectif Foncier
+Ce site est une expérience menée dans le cadre de la réalisation de l'[étude pour l'optimisation du foncier d'activité][etude_optimisation_foncier_activite]. Partant du constat que la description des outils et méthodes foncières s'accomodait mal d'une présentation linéaire et nécessitait des mises à jour régulières, nous avons imaginé utiliser le principe du [wiki][wiki] pour les présenter. Dans cette logique, le site est largement ouvert aux [contributions](contributing.md)
 
-This is a test site hosted on [GitLab Pages](https://pages.gitlab.io). You can
-[browse its source code](https://gitlab.com/pages/mkdocs), fork it and start
-using it on your projects.
+## Nouveau
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+## Dernières modifications
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[etude_optimisation_foncier_activite]: ./references/etudes/etude_optimisation_foncier_activite.md
+[wiki]: https://fr.wikipedia.org/wiki/Wiki

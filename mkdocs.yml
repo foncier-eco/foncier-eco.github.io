@@ -1,2 +1,6 @@
-site_name: My Docs by GitLab Pages
-site_url: https://pages.gitlab.io/mkdocs
+site_name: Collectif Foncier
+site_url: https://know-rmandie.gitlab.io/Collectif-Foncier
+nav:
+    - Accueil: index.md
+    - à propos: a_propos.md
+theme: mkdocs-material
