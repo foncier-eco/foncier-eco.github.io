@@ -1,6 +1,46 @@
+# Informations sur le projet
 site_name: Collectif Foncier
-site_url: https://know-rmandie.gitlab.io/Collectif-Foncier
+site_description: 'Une expérimentation pour un usage sobre et efficace du foncier par le partage de ressources'
+site_url: 'https://know-rmandie.gitlab.io/Collectif-Foncier'
+
+# Copyright
+copyright: 'Copyright &copy; 2019 - 2020 Collectif Foncier'
+
+# Dépôt
+repo_name: 'know-rmandie/Collectif-Foncier'
+repo_url: 'https://gitlab.com/know-rmandie/Collectif-Foncier'
+
+# Configuration
 nav:
     - Accueil: index.md
     - à propos: a_propos.md
-theme: material
+theme:
+  - language: 'fr'
+  - feature:
+    tabs: true
+  - name: material
+  - palette:
+      primary: 'deep puple'
+      accent: 'green'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - footnotes
+  - meta
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
