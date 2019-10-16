@@ -3,4 +3,4 @@ site_url: https://know-rmandie.gitlab.io/Collectif-Foncier
 nav:
     - Accueil: index.md
     - à propos: a_propos.md
-theme: mkdocs-material
+theme: material
