@@ -8,8 +8,7 @@ title: Les partenaires du Collectif Foncier
 ###### département de l'Eure [contact](http://normandie.developpement-durable.gouv.fr)
 ###### Chambre d'Agriculture de l'Eure [contact](http://normandie.developpement-durable.gouv.fr)
 ###### DDTM de l'Eure [contact](http://normandie.developpement-durable.gouv.fr)
-
-cerema Normandie Centre
+###### Cerema Normandie Centre
 
 ## Ils contribuent (ou ont contribué) au Collectif
 
@@ -17,5 +16,5 @@ cerema Normandie Centre
 * [Dixit](http://normandie.developpement-durable.gouv.fr)
 * [FIDAL](http://normandie.developpement-durable.gouv.fr)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MzI1MTc1Ml19
+eyJoaXN0b3J5IjpbMTUzMDQxNTI5MF19
 -->
