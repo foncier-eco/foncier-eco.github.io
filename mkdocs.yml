@@ -11,17 +11,14 @@ repo_name: 'know-rmandie/Collectif-Foncier'
 repo_url: 'https://gitlab.com/know-rmandie/Collectif-Foncier'
 
 # Configuration
-nav:
-    - Accueil: index.md
-    - à propos: a_propos.md
 theme:
-  - language: 'fr'
-  - feature:
+  name: material
+  language: 'fr'
+  feature:
     tabs: true
-  - name: material
-  - palette:
-      primary: 'deep puple'
-      accent: 'green'
+  palette:
+    primary: 'deep puple'
+    accent: 'green'
 
 # Extensions
 markdown_extensions:
