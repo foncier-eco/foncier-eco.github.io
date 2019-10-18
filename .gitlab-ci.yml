@@ -3,7 +3,7 @@ image: python:alpine
 before_script:
   - pip install mkdocs
   - pip install mkdocs-material
-  - pip install mkdocs-awesome-pages
+  - pip install mkdocs-awesome-pages-plugin
 
 pages:
   script:
