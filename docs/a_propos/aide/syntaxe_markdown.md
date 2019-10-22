@@ -1,9 +1,10 @@
-title: la syntaxe markdown
-source: 'https://docs.framasoft.org/fr/grav/markdown.html'
+title: La syntaxe markdown
+source: https://docs.framasoft.org/fr/grav/markdown.html
+revision: 2019-10-22
 
 # La syntaxe markdown
 
-Pour formater votre texte vous avez la possibilité d'utiliser la syntaxe markdown qui permet à partir d'une mise en forme en format texte de produire des documents structurés.
+Pour formater votre texte vous avez la possibilité d'utiliser la syntaxe markdown[^1] qui permet à partir d'une mise en forme en format texte de produire des documents structurés.
 
 ## Titres
 Pour faire un titre, vous devez mettre un `#` devant la ligne. Pour faire un titre plus petit, ajoutez un `#` (jusque 6) :
@@ -22,6 +23,7 @@ Un grand titre
 
 ## Styles de texte
 Vous pouvez utiliser `_` ou `*` autour d'un mot pour le mettre en italique. Mettez-en deux pour le mettre en gras.
+
 *  `_italique_` s'affiche ainsi : _italique_
 *  `**gras**` s'affiche ainsi : **gras**
 * `**_gras-italique_**` s'affiche ainsi : **_gras-italique_**
@@ -150,3 +152,5 @@ s'affiche ainsi :
 ```
 bloc de code
 ```
+
+[^1]: ceci est une note de bas de page

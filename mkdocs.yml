@@ -30,7 +30,7 @@ extra_css:
 plugins:
   - search
   - awesome-pages
-  - git-revision-date
+#  - git-revision-date
 
 # Extensions
 markdown_extensions:

@@ -3,19 +3,25 @@
 {% block source %}
   {% if page %}
     {% if page.meta %}
-      {% if page.meta.revision_date %}
-        <div class="revision">mise à jour {{ page.meta.revision_date }}</div>
-      {% endif %}
       {% if page.meta.index %}
-      <ul class="sitemap">
-        {% for item in nav recursive %}
-          {% if item.children %}
-            <li><a href="{{ item.href|e }}">{{ item.title }}</a>
-              <ul class="submenu">{{ loop(item.children) }}</ul>
-            </li>
-          {% else %}
-            <li><a href="{{ item.href|e }}">{{ item.title }}</a></li>
-          {% endif %}
+      <h2>Continuer</h2>
+      <ul class="rubrique">
+        {% for item in nav %}
+            {% if item.url %}
+              <li><a href="{{ item.href|e }}">{{ item.title }}</a></li>
+            {% else %}
+              {% if item.children %}
+                {% for item in item.children recursive %}
+                    {% if item.url and loop.first %}
+                      <li><a href="{{ item.url|e }}">{{ item.title }}</a></li>
+                    {% elif loop.first %}
+                      {% if item.children %}
+                        {{ loop(item.children) }}
+                      {% endif %}
+                    {% endif %}
+                {% endfor %}
+              {% endif %}
+            {% endif %}
         {% endfor %}
       </ul>
       {% endif %}
@@ -33,7 +39,8 @@
         </div>
       {% endif %}
       {% if page.meta.source %}
-        <h2 id="__source">{{ lang.t("meta.source") }}</h2>
+        <h2></h2>
+        <h6 id="__source">{{ lang.t("meta.source") }}</h6>
         {% set repo = config.repo_url %}
         {% if repo | last == "/" %}
           {% set repo = repo[:-1] %}
@@ -43,6 +50,9 @@
         <a href="{{ [repo, path, file] | join('/') }}" title="{{ file }}" class="md-source-file">
         {{ file }}
         </a>
+      {% endif %}
+      {% if page.meta.revision %}
+        <div class="revision">mise à jour {{ page.meta.revision }}</div>
       {% endif %}
     {% endif %}
   {% endif %}
