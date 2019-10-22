@@ -8,7 +8,8 @@ copyright: 'Copyright &copy; 2019 - 2020 Collectif Foncier'
 
 # Dépôt
 repo_name: 'know-rmandie/Collectif-Foncier'
-repo_url: 'https://gitlab.com/know-rmandie/Collectif-Foncier'
+repo_url: 'https://gitlab.com/know-rmandie/Collectif-Foncier/'
+edit_uri: 'edit/contributions/docs'
 
 # Configuration Personalisation
 theme:
@@ -19,11 +20,11 @@ theme:
   feature:
     tabs: true
   palette:
-    primary: 'deep puple'
-    accent: 'green'
+    primary: 'cyan'
+    accent: 'amber'
 
 extra_css:
-  - ../../theme/style.css
+  - '../theme/style.css'
 
 # Plugins
 plugins:
@@ -51,3 +52,5 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+  - toc:
+      permalink: "#"
