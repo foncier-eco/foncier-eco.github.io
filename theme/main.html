@@ -3,6 +3,22 @@
 {% block source %}
   {% if page %}
     {% if page.meta %}
+      {% if page.meta.revision_date %}
+        <div class="revision">mise à jour {{ page.meta.revision_date }}</div>
+      {% endif %}
+      {% if page.meta.index %}
+      <ul class="sitemap">
+        {% for item in nav recursive %}
+          {% if item.children %}
+            <li><a href="{{ item.href|e }}">{{ item.title }}</a>
+              <ul class="submenu">{{ loop(item.children) }}</ul>
+            </li>
+          {% else %}
+            <li><a href="{{ item.href|e }}">{{ item.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+      {% endif %}
       {% if page.meta.authors or page.meta.url or page.meta.date %}
         <div class="admonition info">
         <p class="admonition-title">A propos</p>

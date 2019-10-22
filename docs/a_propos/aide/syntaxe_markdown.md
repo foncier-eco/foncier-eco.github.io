@@ -1,5 +1,5 @@
 title: la syntaxe markdown
-source: https://docs.framasoft.org/fr/grav/markdown.html
+source: 'https://docs.framasoft.org/fr/grav/markdown.html'
 
 # La syntaxe markdown
 
@@ -144,7 +144,6 @@ Créez un bloc de code en indentant chaque ligne avec quatre espaces, ou en mett
 Exemple :
 
 ` ```bloc de code``` `
-
 
 s'affiche ainsi :
 
