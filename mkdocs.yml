@@ -1,7 +1,8 @@
 # Informations sur le projet
-site_name: Collectif Foncier
+site_name: WikiFoncier
 site_description: 'Une expérimentation pour un usage sobre et efficace du foncier par le partage de ressources'
-site_url: 'https://know-rmandie.gitlab.io/Collectif-Foncier'
+# site_url: 'https://know-rmandie.gitlab.io/Collectif-Foncier'
+site_url: 'http://127.0.0.1:8000'
 
 # Copyright
 copyright: 'Copyright &copy; 2019 - 2020 Collectif Foncier'
@@ -24,7 +25,7 @@ theme:
     accent: 'amber'
 
 extra_css:
-  - '../theme/style.css'
+  - ext/style.css
 
 # Plugins
 plugins:
@@ -49,7 +50,11 @@ markdown_extensions:
   - pymdownx.magiclink
   - pymdownx.mark
   - pymdownx.smartsymbols
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: flow
+        - class: uml-flowchart
+        - format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde

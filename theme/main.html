@@ -1,29 +1,17 @@
 {% extends "base.html" %}
 
+{% block extrahead %}
+  {% if page.meta.mermaid %}
+    <link rel="stylesheet" type="text/css" href="{{ 'ext/mermaid.min.css' | url }}" />
+    <script src="{{ 'ext/mermaid.min.js' | url }}"></script>
+  {% endif %}
+{% endblock %}
+
 {% block source %}
   {% if page %}
     {% if page.meta %}
       {% if page.meta.index %}
-      <h2>Continuer</h2>
-      <ul class="rubrique">
-        {% for item in nav %}
-            {% if item.url %}
-              <li><a href="{{ item.href|e }}">{{ item.title }}</a></li>
-            {% else %}
-              {% if item.children %}
-                {% for item in item.children recursive %}
-                    {% if item.url and loop.first %}
-                      <li><a href="{{ item.url|e }}">{{ item.title }}</a></li>
-                    {% elif loop.first %}
-                      {% if item.children %}
-                        {{ loop(item.children) }}
-                      {% endif %}
-                    {% endif %}
-                {% endfor %}
-              {% endif %}
-            {% endif %}
-        {% endfor %}
-      </ul>
+
       {% endif %}
       {% if page.meta.authors or page.meta.url or page.meta.date %}
         <div class="admonition info">
@@ -35,6 +23,8 @@
            {% if page.meta.url %}
            <a href="{{ page.meta.url }}">Plus d'informations</a>
            {% endif %}
+           {% if page.meta.isbn %}
+           <br><a href="https://catalogue.bnf.fr/rechercher.do?motRecherche={{ page.meta.isbn }}">ISBN {{ page.meta.isbn }}</a> {% endif %}
          </p>
         </div>
       {% endif %}
