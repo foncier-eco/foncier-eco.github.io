@@ -1,8 +1,8 @@
 # Informations sur le projet
 site_name: WikiFoncier
 site_description: 'Une expérimentation pour un usage sobre et efficace du foncier par le partage de ressources'
-# site_url: 'https://know-rmandie.gitlab.io/Collectif-Foncier'
-site_url: 'http://127.0.0.1:8000'
+site_url: 'https://know-rmandie.gitlab.io/Collectif-Foncier'
+#site_url: 'http://127.0.0.1:8000'
 
 # Copyright
 copyright: 'Copyright &copy; 2019 - 2020 Collectif Foncier'
@@ -11,6 +11,7 @@ copyright: 'Copyright &copy; 2019 - 2020 Collectif Foncier'
 repo_name: 'know-rmandie/Collectif-Foncier'
 repo_url: 'https://gitlab.com/know-rmandie/Collectif-Foncier/'
 edit_uri: 'edit/contributions/docs'
+new_uri: 'new/contributions/docs'
 
 # Configuration Personalisation
 theme:
@@ -21,7 +22,7 @@ theme:
   feature:
     tabs: true
   palette:
-    primary: 'cyan'
+    primary: 'deeppurple'
     accent: 'amber'
 
 extra_css:
@@ -29,7 +30,8 @@ extra_css:
 
 # Plugins
 plugins:
-  - search
+  - search:
+      language: 'fr, en'
   - awesome-pages
 #  - git-revision-date
 

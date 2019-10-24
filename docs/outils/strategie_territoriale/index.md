@@ -5,7 +5,7 @@ La stratégie de développement économique est un des outils qui peut être mis
 
 Elle doit idéalement être alimentée par un [observatoire du foncier économique][observatoire-ZAE], qui permet une connaissance fine et à jour de l'offre territoriale et sert de base à l'ensemble des réflexions.
 
-La stratégie permet de sortir d'une logique d'offre non différenciée, parfois excessive, et d'adapter l'offre à une demande réelle des entreprises ou aux besoins identifiés pour le territoire.
+La stratégie permet de sortir d'une logique d'offre non différenciée, parfois excessive, et d'adapter l'offre à une demande réelle des entreprises ou aux besoins identifiés pour le territoire. Elle permet également d'envisager des thématiques importantes pour [la vie des ZAE](../vie_ZA/gestion_ZA/) comme l'[écologie industrielle et territoriale](../EIT/installer_demarche_eit).
 
 Elle peut s'appuyer pour sa mise en oeuvre sur les [documents de planification][planification], les contrats de territoire ou encore les appels à projets...
 
@@ -45,6 +45,6 @@ La stratégie ne devrait donc surtout pas se limiter à des calculs de surface d
 Une attention particulière à l'organisation des territoires voisins et un dialogue avec ces territoires pour des stratégies coordonnées sont naturellement recommandés.
 
 [observatoire-ZAE]: ../connaissance/observatoire_foncier_eco.md
-[planification]: ../planification/
+[planification]: ../planification
 
 <script>mermaid.initialize({startOnLoad:true, theme:"neutral", fontFamily:"Sans serif"});</script>
