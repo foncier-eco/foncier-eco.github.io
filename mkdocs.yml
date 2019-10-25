@@ -1,8 +1,9 @@
 # Informations sur le projet
 site_name: WikiFoncier
 site_description: 'Une expérimentation pour un usage sobre et efficace du foncier par le partage de ressources'
-site_url: 'https://know-rmandie.gitlab.io/Collectif-Foncier'
-#site_url: 'http://127.0.0.1:8000'
+#site_url: 'https://know-rmandie.gitlab.io/Collectif-Foncier'
+site_url: 'http://127.0.0.1:8000'
+use_directory_urls: false
 
 # Copyright
 copyright: 'Copyright &copy; 2019 - 2020 Collectif Foncier'
@@ -11,7 +12,6 @@ copyright: 'Copyright &copy; 2019 - 2020 Collectif Foncier'
 repo_name: 'know-rmandie/Collectif-Foncier'
 repo_url: 'https://gitlab.com/know-rmandie/Collectif-Foncier/'
 edit_uri: 'edit/contributions/docs'
-new_uri: 'new/contributions/docs'
 
 # Configuration Personalisation
 theme:
@@ -33,12 +33,24 @@ plugins:
   - search:
       language: 'fr, en'
   - awesome-pages
+  - pdf-export:
+      verbose: false
+      media_type: print
+      combined: true
+      combined_output_path: WikiFoncier.pdf
+      enabled_if_env: ENABLE_PDF_EXPORT
 #  - git-revision-date
 
 # Extensions
 markdown_extensions:
   - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: false
   - footnotes
+  - markdown_include.include
+  - markdown_blockdiag:
+      format: svg
   - meta
   - pymdownx.arithmatex
   - pymdownx.betterem:
@@ -49,14 +61,16 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_generator: !!python/name:pymdownx.emoji.to_svg
   - pymdownx.inlinehilite
+  - pymdownx.keys
   - pymdownx.magiclink
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences:
-      custom_fences:
-        - name: flow
-        - class: uml-flowchart
-        - format: !!python/name:pymdownx.superfences.fence_code_format
+      custom_fences: [
+        {name: flow, class: uml-flowchart, format: pymdownx.superfences.fence_code_format}
+       ,{name: sequence, class: uml-sequence-diagram, format: pymdownx.superfences.fence_code_format}
+       ,{name: mermaid, class: mermaid}
+       ]
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde

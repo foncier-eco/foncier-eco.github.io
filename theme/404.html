@@ -16,7 +16,7 @@
     else file_name += FilePath[FilePath.length-1];
   document.querySelector(".missing").innerText = file_name;
   let SourcePath = missing_url.split("{{ config.site_url }}");
-  let file_source = "{{ config.repo_url }}" + "{{ config.new_uri }}" + "/" + SourcePath[SourcePath.length-1];
+  let file_source = "{{ config.repo_url }}" + "new/contributions/docs/" + SourcePath[SourcePath.length-1];
   document.querySelector(".md-source-file").setAttribute("href",file_source);
   document.querySelector(".md-source-file").setAttribute("title",file_source);  document.querySelector(".md-source-file").innerText = file_source;
 </script>

@@ -32,6 +32,24 @@ Sc-.-A
 style S fill:#dad,stroke-width:3px
 </div>
 
+blockdiag {
+  orientation = portrait
+  S [label = "Stratégie de développement économique", color = "#dad"]
+  A [label = "Schéma d'accueil des entreprises"]
+  O [label = "Observatoire"]
+  Sr [label = "SRADDET"]
+  Sc [label = "SCoT"]
+  Pl [label = "PLUi"]
+  S -> A
+  S -> O [dir = "both"]
+  S -> Sr [dir = "none", style= "dotted"]
+  Sr -> Sc
+  Sc -> Pl
+  S -> Sc  
+  Sc -> A
+  A -> O [dir = "none", style= "dotted"]
+}
+
 ## Pilotage et Mise en oeuvre
 Les collectivités en charge du développement économique sont particulièrement concernées, étant elles-mêmes souvent à la manoeuvre pour l'élaboration des documents de planification.
 

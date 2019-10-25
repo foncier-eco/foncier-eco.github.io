@@ -1,43 +1,32 @@
-title: Installer l'EIT
+title: Installer une démarche EIT
 
-Dans un contexte de raréfaction de la ressource foncière et de prise en compte croissante des principes de développement durable par les entreprises du territoire, chaque collectivité est en mesure de saisir l’opportunité de faire évoluer son parc de ZAE vers le modèle d’éco-parcs, pour une optimisation de ses espaces de production et une augmentation de l’efficacité de ses entreprises.
+Le contexte de raréfaction de la ressource foncière et de prise en compte croissante des principes de développement durable par les entreprises du territoire, est une opportunité pour les collectivités de faire évoluer son parc de ZAE vers le modèle d’éco-parcs, pour une optimisation de ses espaces de production et une augmentation de l’efficacité de ses entreprises.
 
-Certes les objectifs fixées ne pourront pas être les mêmes en fonction de :
+La démarche d'Ecologie Industrielle et Territoriale vise à optimiser l’organisation et les équipements, à l'échelle de chaque zone et à l'échelle plus large entre les zones d'activités, pour une amélioration de l'efficacité des entreprises, de la qualité de vie au sein des zones d’activités et une diminution des impacts et besoins en ressources.
 
-* La vocation de la zone d’activités (industrielle, artisanale, logistique, commerciale, tertiaire…)
-* Son niveau de spécialisation (degré de concentration d’entreprises partageant un même secteur d’activités, ex. aéronautique, agroalimentaire, numérique…)
-* Nombre d’entreprises implantées
-* La taille des entreprises
-* Son ancienneté,
-* Etc.
+La traduction concrète, sous forme d'_éco-parcs_ par exemple peuvent se traduire de multiples manières : Aménagement de parkings communs, Plan de mobilité inter-entreprises, Parc photovoltaïque mutualisé, Contrat mutualisé de surveillance, Coordination pour la gestion des déchets (éco-points, contrats de collecte, etc.), Services mutualisés (multi-accueil pour jeunes enfants, conciergerie, point de restauration...), Réseau de chaleur, …
 
-Il s’agit de mettre en place un concept d’aménagement et de gouvernance visant à concilier l’activité économique avec l’environnement, dans le respect des critères du développement durable pour une écologie industrielle. Il prône l’optimisation de l’espace, des ressources et des équipements pour une meilleure utilisation des sols et surfaces, ainsi que la qualité de vie au sein des zones d’activités.
+## Mise en oeuvre
 
-Les éco-parcs peuvent se traduire de multiples manières :
+En général, la mise en place d'une démarche d'EIT poursuit trois grands objectifs
 
-* Aménagement de parkings communs
-* Plan de mobilité inter-entreprises
-* Parc photovoltaïque mutualisé
-* Contrat mutualisé de surveillance
-* Coordination pour la gestion des déchets (éco-points, contrats de collecte, etc.)
-* Services mutualisés (multi-accueil pour jeunes enfants, conciergerie, point de restauration...)
-* Réseau de chaleur…
-
-# Mise en oeuvre
-
-Objectifs du programme d’actions
-
-* Doter les ZAE du territoire d’une stratégie d’écologie industrielle
+* Doter les ZAE du territoire d’une stratégie d’écologie industrielle, en lien avec la [stratégie territoriale](../strategie_territoriale/index.md) et la faire vivre
 * Engager une réflexion en faveur de la densification des zones d’activités
 * Favoriser les synergies entre les entreprises d’une même zone et la mutualisation de services
 
-La compétence de développement économique est répartie entre le niveau régional et le niveau intercommunal ce dernier ayant directement la charge de la gestion des ZAE. Donc même si l’impulsion de la démarche est issue d’une stratégie régionale, sa mise en œuvre opérationnelle reposera sur une intercommunalité qui devra dégager des moyens notamment humains pour assurer la conduite du projet. Afin d’en fiabiliser la réussite, il est préférable de lancer le processus d’évolution vers le modèle d'éco-parc (écologie industrielle, économie circulaire…) par une opération pilote à l’échelle d’une seule ZAE. Cette expérience aura pour vocation de poser les bases du dispositif avant son déploiement sur d’autres ZAE.   
+Plus finement les objectifs fixés dépendront
 
-Quatre grandes étapes ponctuent la démarche :
+* de **la vocation** de la zone d’activités (industrielle, artisanale, logistique, commerciale, tertiaire…)
+* de son **niveau de spécialisation** (degré de concentration d’entreprises partageant un même secteur d’activités, ex. aéronautique, agroalimentaire, numérique…)
+* du **nombre d’entreprises** implantées
+* de la **taille des entreprises**
+* de son **ancienneté**,
+* ...
 
-1. Préparation et lancement
+Il n'y a pas de règle précise pour le déroulement de la démarche, mais les retours d'expérience invitent la mener suivant quatre étapes. L'existence d'un dispositif de [gestion de la zone](../vie_ZA/gestion_ZA.md) et en particulier d'[animation](../vie_ZA/gestionnaire_animateur.md) est très favorable pour la conduite de la démarche.
+
+### Préparation et lancement
 La préparation pose les bases de la démarche. Elle doit permettre d’établir le contact avec les acteurs-clés (entreprises « ambassadrices » de la démarche), d’anticiper les enjeux qui doivent être traités au niveau de la zone, et de mettre en place les mesures qui assureront l’efficacité de la démarche.
-
 Les éléments-clés de cette phase de lancement sont :
 
 * Susciter l’intérêt auprès des entreprises : assurer une participation élevée et bonne acceptation de la démarche
@@ -48,7 +37,7 @@ Elle est constituée des activités majeures suivantes :
 * Mise en place d’un groupe de pilotage (composé des « ambassadeurs », d’un noyau d’acteurs facilitateurs de la démarche, chargé de définir le projet de la zone et d’en fixer le planning)
 * Prise de contact et rencontre de l’ensemble des entreprises de la zone à une phase d’ateliers de co-construction
 
-2. Rencontre(s) inter-entreprises
+### Rencontre(s) inter-entreprises
 Avec le mot d’ordre de "flexibilité", cette étape de la démarche inter-entreprises est constituée de 1 à 2 rencontres (en cas de besoin) avec les entreprises de la zone. Les objectifs de ces rencontres sont les suivants :
 
 * Expliquer la démarche, présenter la qualité de la zone, renforcer son identité
@@ -62,7 +51,7 @@ Cette rencontre est l’occasion :
 * De répondre aux diverses questions des participants sur la démarche
 L’équipe de pilotage à l’issue de cette rencontre élabore un catalogue des besoins et pistes d’opportunités. Ce catalogue va permettre d’orienter les ateliers à venir et constitue également les premières pistes de projets d’écologie industrielle qui pourront être concrétisés.
 
-3. Atelier(s)
+### Atelier(s)
 Ce deuxième volet de la démarche avec les entreprises de la zone prend la forme concrète de 1 à 2 ateliers de travail. Les objectifs de ces ateliers sont les suivants :
 
 * Réaliser des groupes de travail thématiques en fonction des besoins identifiés ;
@@ -90,7 +79,7 @@ La synthèse est effectuée par un rapporteur-participant désigné par le group
 A l’issue des travaux de groupes, les différentes pistes et plans d’actions élaborés pour chaque thématique sont mises en commun et discutées en plénières. Les prochaines étapes sont clairement explicitées.
 Les plans d’actions visent un engagement des acteurs pour leur réalisation. Ceci peut passer par une confirmation de l’inscription des participants dans les différents groupes de travail. S’il semble encore difficile d’établir le plan d’actions à l’issu de l’atelier, notamment par manque de temps, un deuxième atelier est alors organisé. Il reprendra la réflexion thématique en groupes de travail pour aboutir aux plans d’actions détaillés.
 
-4. Suivi de la mise en œuvre des actions
+### Suivi de la mise en œuvre des actions
 
 Un suivi efficace est nécessaire pour s’assurer de la mise en place des actions définies au cours des différentes rencontres. Il doit permettre de soutenir la mise en route d’un processus qui à terme devrait être porté par les entreprises de la zone.
 
@@ -103,3 +92,8 @@ En tant qu’animateur de la démarche, la Collectivité a la charge du suivi et
 * De convoquer les entreprises en plénière annuelle pour maintenir la dynamique d’échange et faire émerger de nouveaux projets
 
 Selon la thématique et en fonction du degré de maturité du groupe de travail, le pilotage peut être délégué complétement à une autre entité (entreprise, association d’entreprise, commune ou autre).
+
+## Recommandations
+La compétence de développement économique est répartie entre le niveau régional et le niveau intercommunal ce dernier ayant directement la charge de la gestion des ZAE. Donc même si l’impulsion de la démarche est issue d’une stratégie régionale, sa mise en œuvre opérationnelle reposera sur une intercommunalité qui devra dégager des moyens notamment humains pour assurer la conduite du projet.
+
+Afin d’en fiabiliser la réussite, il est préférable de lancer le processus d’évolution vers le modèle d'éco-parc (écologie industrielle, économie circulaire…) par une opération pilote à l’échelle d’une seule ZAE. Cette expérience aura pour vocation de poser les bases du dispositif avant son déploiement sur d’autres ZAE.

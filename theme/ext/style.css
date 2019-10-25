@@ -2,7 +2,7 @@
   text-align: justify;
 }
 
-article a[href|=http] {text-decoration:underline}
+article a[href^="http"] {text-decoration:underline}
 
 a[href$=".md"] {color: rgba(0,0,0,.75)}
 

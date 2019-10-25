@@ -5,7 +5,7 @@ La zone d’activités d’aujourd’hui est un lieu de vie économique certes m
 Les zones d'activités disposant d'une fonction de gestion sont plus robustes, résilientes et souvent mieux vécues par l'ensemble des usagers et riverains. Le terme _gestion_ est en effet un terme large, qui peut recouvrir de nombreux champs d'actions :
 
 * La gouvernance, voire la _démocratie_ de la ZAE pour
-    * Définir les orientations pour l'accueil des entreprises, contribuer à la [stratégie économique](../../strategie_territoriale) territoriale,    
+    * Définir les orientations pour l'accueil des entreprises, contribuer à la [stratégie économique](../strategie_territoriale/index.md) territoriale,    
     * Evaluer les besoins en matière de services et les prioriser,
     * Elaborer et faire évoluer les règles de _vie commune_
     * Faire vivre une démarche qualité ou une démarche environnementale, qu'elle soit porté ou pas par un [label](./labels_ZA.md)
@@ -24,7 +24,11 @@ Les zones d'activités disposant d'une fonction de gestion sont plus robustes, r
     * Assurer la maitrise d'ouvrage des travaux validés dans le cadre de la gouvernance existante.
 
 ## Mise en oeuvre
-Il y a de nombreuses modalités pour assurer la gestion d'une zone d'activités économiques. Certains gestionnaires assurent la gestion de plusieurs zones d'activités, travaillent en équipes, certains sont employés par une collectivité locale, d'autres n'assument qu'une petite partie des rôles possibles d'un  gestionnaire de zone.
+<div alt="parole d'élu >">
+
+!!! quote "parole d'élu"
+    Même si ce n'est pas un dû, je considère qu'affecter une partie du temps d'un agent de mes équipes à la gestion de cette zone d'activité est un bon investissement. Elle fonctionne mieux et les entreprises y sont bien.
+</div> Il y a de nombreuses modalités pour assurer la gestion d'une zone d'activités économiques. Certains gestionnaires assurent la gestion de plusieurs zones d'activités, travaillent en équipes, certains sont employés par une collectivité locale, d'autres n'assument qu'une petite partie des rôles possibles d'un  gestionnaire de zone.
 
 Il y a une convergence à trouver entre les objectifs des parties prenantes et les moyens qu'ils peuvent y consacrer. En fonction de cet équilibre, il sera possible d'envisager de faire reposer la fonction :
 

@@ -1,7 +1,9 @@
 title: Outils
 arrange :
+  - index.md
   - connaissance
   - strategie_territoriale
   - planification
   - vie_ZA
+  - foncier
   - EIT
