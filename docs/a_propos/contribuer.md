@@ -23,11 +23,9 @@ Le format préféré est la [syntaxe markdown][markdown], car il facilite le tra
 
 
 ## Directement au code
-Il est également possible de proposer directement des modifications aux pages via le code du site. Les propositions se font sur la branche _contributions_, indifféremment sur Gitlab ou Github.
+Il est également possible de [proposer directement des modifications](./contribuer_au_depot.md) aux pages via le code du site. Les propositions se font sur la branche _contributions_, indifféremment sur Gitlab ou Github.
 
-Il suffit de demander un accès sur l'une de ces plate formes. Un compte est nécessaire.
-
-Pour les moins ferrus de technique, nous recommandons l'utilisation de stackedit.io
+Il suffit de demander un accès sur l'une de ces plate formes. Un compte est nécessaire. Pour les moins ferrus de technique, nous recommandons l'utilisation de stackedit.io
 
 [mail]: mailto:badd.seclad.dreal-normandie@developpement-durable.gouv.fr?subject=Wikifoncier
 [issues]: https://gitlab.com/know-rmandie/Collectif-Foncier/issues

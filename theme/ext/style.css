@@ -64,3 +64,33 @@ img[alt$="><"] {
 .missing {
   background-color:pink;
 }
+
+.columns {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.columns > div, .columns > .admonition {
+  padding:0 5px;
+  flex-grow: 1;
+}
+
+/* R E S P O N S I V E */
+@media only screen and (min-width: 320px) {
+
+}
+
+@media only screen and (min-width: 480px) {
+  .four.columns {width:50%;}
+}
+
+@media only screen and (min-width: 768px) {
+  .three.columns>div {width:50%;}
+  .four.columns>div {width:33%;}
+}
+
+@media only screen and (min-width: 1245px) {
+  .two.columns>div {width:50%;}
+  .three.columns>div {width:33%;}
+  .four.columns>div {width:25%;}
+}

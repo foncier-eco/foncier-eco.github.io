@@ -60,6 +60,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.emoji:
       emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.extra
   - pymdownx.inlinehilite
   - pymdownx.keys
   - pymdownx.magiclink
