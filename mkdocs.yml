@@ -2,8 +2,9 @@
 site_name: WikiFoncier
 site_description: 'Une expérimentation pour un usage sobre et efficace du foncier par le partage de ressources'
 site_url: 'https://know-rmandie.gitlab.io/Collectif-Foncier'
-#site_url: 'http://127.0.0.1:8000'
-#use_directory_urls: false
+# décommenter les lignes suivantes pour un test en local
+# site_url: 'http://127.0.0.1:8000'
+# use_directory_urls: false
 
 # Copyright
 copyright: 'Copyright &copy; 2019 - 2020 Collectif Foncier'
