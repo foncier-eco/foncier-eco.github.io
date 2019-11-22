@@ -29,8 +29,8 @@ Il suffit de demander un accès sur l'une de ces plate formes. Un compte est né
 
 Pour les moins ferrus de technique, nous recommandons l'utilisation de stackedit.io
 
-[mail]: mailto:badd.seclad.dreal-normandie@developpement-durable.gouv.fr?subject=Wikifoncier
-[issues]: https://gitlab.com/know-rmandie/Collectif-Foncier/issues
+[mail]: mailto:incoming+foncier-eco-foncier-eco-gitlab-io-14636881-issue-@incoming.gitlab.com?subject=Foncier-Eco
+[issues]: https://gitlab.com/foncier-eco/foncier-eco.gitlab.io/issues
 [markdown]: ./aide/syntaxe_markdown.md
 
 

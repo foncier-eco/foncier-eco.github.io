@@ -5,7 +5,7 @@ La zone d’activités d’aujourd’hui est un lieu de vie économique certes m
 Les zones d'activités disposant d'une fonction de gestion sont plus robustes, résilientes et souvent mieux vécues par l'ensemble des usagers et riverains. Le terme _gestion_ est en effet un terme large, qui peut recouvrir de nombreux champs d'actions :
 
 * La gouvernance, voire la _démocratie_ de la ZAE pour
-    * Définir les orientations pour l'accueil des entreprises, contribuer à la [stratégie économique](../strategie_territoriale/index.md) territoriale,    
+    * Définir les orientations pour l'accueil des entreprises, contribuer à la [stratégie économique](../strategie_territoriale/index) territoriale,    
     * Evaluer les besoins en matière de services et les prioriser,
     * Elaborer et faire évoluer les règles de _vie commune_
     * Faire vivre une démarche qualité ou une démarche environnementale, qu'elle soit porté ou pas par un [label](./labels_ZA.md)

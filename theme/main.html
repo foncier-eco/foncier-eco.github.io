@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 
 {% block extrahead %}
+  <link rel="stylesheet" href="{{ 'lib/fonts/material-icons-outlined.css' | url }}" />
   {% if page.meta.mermaid %}
     <link rel="stylesheet" type="text/css" href="{{ 'ext/mermaid.min.css' | url }}" />
     <script src="{{ 'ext/mermaid.min.js' | url }}"></script>

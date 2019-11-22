@@ -10,7 +10,7 @@ La traduction concrète, sous forme d'_éco-parcs_ par exemple peuvent se tradui
 
 En général, la mise en place d'une démarche d'EIT poursuit trois grands objectifs
 
-* Doter les ZAE du territoire d’une stratégie d’écologie industrielle, en lien avec la [stratégie territoriale](../strategie_territoriale/index.md) et la faire vivre
+* Doter les ZAE du territoire d’une stratégie d’écologie industrielle, en lien avec la [stratégie territoriale](../strategie_territoriale/index) et la faire vivre
 * Engager une réflexion en faveur de la densification des zones d’activités
 * Favoriser les synergies entre les entreprises d’une même zone et la mutualisation de services
 
@@ -23,7 +23,7 @@ Plus finement les objectifs fixés dépendront
 * de son **ancienneté**,
 * ...
 
-Il n'y a pas de règle précise pour le déroulement de la démarche, mais les retours d'expérience invitent la mener suivant quatre étapes. L'existence d'un dispositif de [gestion de la zone](../vie_ZA/gestion_ZA.md) et en particulier d'[animation](../vie_ZA/gestionnaire_animateur.md) est très favorable pour la conduite de la démarche.
+Il n'y a pas de règle précise pour le déroulement de la démarche, mais les retours d'expérience invitent la mener suivant quatre étapes. L'existence d'un dispositif de [gestion de la zone](../vie_ZA/gestion_ZA) et en particulier d'[animation](../vie_ZA/gestionnaire_animateur) est très favorable pour la conduite de la démarche.
 
 ### Préparation et lancement
 La préparation pose les bases de la démarche. Elle doit permettre d’établir le contact avec les acteurs-clés (entreprises « ambassadrices » de la démarche), d’anticiper les enjeux qui doivent être traités au niveau de la zone, et de mettre en place les mesures qui assureront l’efficacité de la démarche.

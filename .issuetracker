@@ -4,4 +4,4 @@
 
 [issuetracker "Issues"]
   regex = "#(\\d+)"
-  url = "https://gitlab.com/know-rmandie/Collectif-Foncier/issues/$1"
+  url = "https://gitlab.com/foncier-eco/foncier-eco.gitlab.io/issues/$1"
