@@ -8,7 +8,7 @@ Les zones d'activités disposant d'une fonction de gestion sont plus robustes, r
     * Définir les orientations pour l'accueil des entreprises, contribuer à la [stratégie économique](../strategie_territoriale/index) territoriale,    
     * Evaluer les besoins en matière de services et les prioriser,
     * Elaborer et faire évoluer les règles de _vie commune_
-    * Faire vivre une démarche qualité ou une démarche environnementale, qu'elle soit porté ou pas par un [label](./labels_ZA.md)
+    * Faire vivre une démarche qualité ou une démarche environnementale, qu'elle soit porté ou pas par un [label](./labels_ZA)
 * [L'animation](./gestionnaire_animateur)
     * Informer les entreprises,
     * Créer du lien entre les différents acteurs,

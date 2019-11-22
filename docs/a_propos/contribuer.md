@@ -31,7 +31,7 @@ Pour les moins ferrus de technique, nous recommandons l'utilisation de stackedit
 
 [mail]: mailto:incoming+foncier-eco-foncier-eco-gitlab-io-14636881-issue-@incoming.gitlab.com?subject=Foncier-Eco
 [issues]: https://gitlab.com/foncier-eco/foncier-eco.gitlab.io/issues
-[markdown]: ./aide/syntaxe_markdown.md
+[markdown]: ./aide/syntaxe_markdown
 
 
 

@@ -62,7 +62,7 @@ La stratégie ne devrait donc surtout pas se limiter à des calculs de surface d
 
 Une attention particulière à l'organisation des territoires voisins et un dialogue avec ces territoires pour des stratégies coordonnées sont naturellement recommandés.
 
-[observatoire-ZAE]: ../connaissance/observatoire_foncier_eco.md
+[observatoire-ZAE]: ../connaissance/observatoire_foncier_eco
 [planification]: ../planification
 
 <script>mermaid.initialize({startOnLoad:true, theme:"neutral", fontFamily:"Sans serif"});</script>

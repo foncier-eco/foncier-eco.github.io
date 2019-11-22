@@ -4,8 +4,6 @@
 
 article a[href^="http"] {text-decoration:underline}
 
-a[href$=".md"] {color: rgba(0,0,0,.75)}
-
 img[alt$=">"], div[alt$=">"] {
   float: right;
   max-width: 33%;

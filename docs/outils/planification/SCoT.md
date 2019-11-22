@@ -4,7 +4,7 @@ duree: 200
 pilote: EPCI
 summary: A l’échelle d’un large bassin d’emploi ou d’une aire urbaine, le projet d’aménagement du SCoT est l’outil privilégié de déclinaison intercommunale de la stratégie économique.
 
-Outil de conception et de mise en œuvre d’une planification stratégique intercommunale, à l’échelle d’un large bassin d’emploi ou d’une aire urbaine, dans le cadre d’un projet d’aménagement et de développement durables. Il est l’outil privilégié de déclinaison intercommunale de la stratégie régionale définie par le [SRADDET](./SRADDET) et le [SRDEII](./SRDEII.md).
+Outil de conception et de mise en œuvre d’une planification stratégique intercommunale, à l’échelle d’un large bassin d’emploi ou d’une aire urbaine, dans le cadre d’un projet d’aménagement et de développement durables. Il est l’outil privilégié de déclinaison intercommunale de la stratégie régionale définie par le [SRADDET](./SRADDET) et le [SRDEII](./SRDEII).
 
 ## Pilotage et partenariats
 le SCoT est élaboré et mis en œuvre par l’[EPCI](./EPCI) du territoire concerné ou par un syndicat mixte réunissant les EPCI concernés. Il associe les partenaires essentiels de l’aménagement du territoire. En matière d’espaces d’activités, il est particulièrement recommandé que soit associés …
@@ -21,7 +21,7 @@ Le SCoT permet d’établir à une échelle intercommunale adaptée un projet d�
 
 Le SCoT est naturellement plus adapté aux cas décrit dans les scénarios xx et xx. Toutefois il trouve également son intérêt dans le scénario xx, car …
 
-Intermédiaire entre le SRADDET et le [PLUi](../planification/PLUi.md), il peut tirer bénéfice des [contrats de territoires](./contrats_de_territoires) ou d’une démarche d’[Agenda 21](./agenda_21) pour optimiser l’usage du foncier.
+Intermédiaire entre le SRADDET et le [PLUi](../planification/PLUi), il peut tirer bénéfice des [contrats de territoires](./contrats_de_territoires) ou d’une démarche d’[Agenda 21](./agenda_21) pour optimiser l’usage du foncier.
 
 Le bilan et l’évaluation du SCoT, obligatoires au plus tard 6 ans après son approbation sont une opportunité pour évaluer le projet et sa mise en œuvre, notamment en terme d’activités économiques
 
