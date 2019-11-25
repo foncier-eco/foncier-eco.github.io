@@ -1,5 +1,4 @@
 title: Observatoire du foncier économique
-source: ../../references/guides/observer_connaitre_ZAE-cerema
 
 Dans le but de disposer d’une vision claire, exhaustive et actualisée du marché du foncier économique du territoire, et ainsi répondre rapidement et efficacement aux demandes des entreprises, les territoires devraient se doter d’un observatoire du foncier économique destiné à orienter et évaluer la politique foncière de la collectivité et prévenir les mutations foncières à venir.
 
@@ -38,4 +37,8 @@ Certains sujets pourtant importants pour la vie des ZAE sont malheureusement, fr
 [^1]: le besoin en foncier varie selon que l’entreprise relève du tertiaire ou de l’industrie
 [^2]: les questions des trajets domiciles-travail, les facilités en terme d'intermodalité (transport collectif, aire de covoiturage, proximité aux axes structurants…)
 
-[strategie_eco_territoriale]: ../../strategie_territoriale
+!!! doc "Aller plus loin"
+    * [Observer et connaître les zones d’activités économiques](../../references/syntheses/observer_connaitre_ZAE-cerema.md) - synthèse du Cerema
+
+
+[strategie_eco_territoriale]: ../strategie_territoriale/index.md
