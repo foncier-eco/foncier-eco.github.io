@@ -2,6 +2,8 @@ article a[href^="http"] {
   text-decoration: underline
 }
 
+article>a:first-child {display:none}
+
 figure {
   width: 100%;
   max-width: 100%;

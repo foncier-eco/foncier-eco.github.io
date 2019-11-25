@@ -58,15 +58,20 @@
             {% if repo | last == "/" %}
               {% set repo = repo[:-1] %}
             {% endif %}
-            {% set source_url = config.repo_url + '/tree/master/' + page.url %}
             {% set comment_url = config.repo_url + '/issues/new?issue%5Bdescription%5D=' + page.url + '%20>' %}
             {% set mail_url = 'mailto:incoming+foncier-eco-foncier-eco-gitlab-io-14636881-issue-@incoming.gitlab.com?subject=' + page.url + '%20>' %}
+            {% set source_url = config.repo_url + 'tree/master/docs/' + page.url[:-1] + '.md'  %}
             <li>
-              source  <a href="{{ source_url | url }}" title="code source de cette page"><i class="material-icons">code</i></a>
+                source  <a href="{{ source_url | url }}" title="code source de cette page"><i class="material-icons">code</i></a>
             </li>
             <li>
-              une remarque? une proposition?  <a href="{{ comment_url | url }}" title="déposer un ticket"><i class="material-icons">comment</i></a> <a href="{{ mail_url | url }}" title="par email"><i class="material-icons">email</i></a>
+              une remarque? une proposition? <a href="{{ comment_url | url }}" title="déposer un ticket"><i class="material-icons">comment</i></a> <a href="{{ mail_url | url }}" title="par email"><i class="material-icons">email</i></a>
             </li>
+            {% if page.edit_url %}
+            <li>
+              modifier  <a href="{{ page.edit_url | url }}" title="proposer des modifications (compte nécessaire)"><i class="material-icons">edit</i></a>
+            </li>
+            {% endif %}
           {% endif %}
           </div>
         </div>

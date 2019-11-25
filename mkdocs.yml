@@ -1,9 +1,9 @@
 # Informations sur le projet
 site_name: Foncier-Eco
 site_description: 'Une expérimentation pour un usage sobre et efficace du foncier par le partage de ressources'
-site_url: 'https://foncier-eco.gitlab.io'
+# site_url: 'https://foncier-eco.gitlab.io'
 # décommenter les lignes suivantes pour un test en local
-# site_url: 'http://127.0.0.1:8000'
+site_url: 'http://127.0.0.1:8000'
 # use_directory_urls: false
 
 # Copyright
@@ -12,7 +12,7 @@ copyright: 'Copyright &copy; 2019 - 2020 Collectif Foncier'
 # Dépôt
 repo_name: 'Foncier Eco'
 repo_url: 'https://gitlab.com/foncier-eco/foncier-eco.gitlab.io/'
-# edit_uri: 'edit/contributions/docs'
+edit_uri: 'edit/contributions/docs'
 
 # Configuration Personalisation
 theme:

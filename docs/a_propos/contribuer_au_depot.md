@@ -4,7 +4,7 @@ _Les éléments présentés ici pourront paraitre technique pour les personnes q
 
 Le prérequis indispensable pour les méthodes présentées ici est de disposer d'un compte sur github ou gitlab.
 
-## Créez votre fork
+## Créez votre _fork_
 
 * Rendez vous sur le dépôt du projet sur la plate-forme de votre choix :
   * Gitlab (de préférence)
@@ -48,7 +48,7 @@ pip install mkdocs-pdf-export-plugin
 * Vous pouvez tester votre installation
     * Lancez un terminal
     * Placez vous dans votre répertoire de travail `cd votre_repertoire`
-    * Lancez mkDocs `mkdocs serve`
+    * Lancez mkDocs `mkdocs serve`[^e]
     * Rendez vous dans votre navigateur à l'adresse https://127.0.0.1:8000
 
 #### Modifications
@@ -57,12 +57,16 @@ Vous pouvez travailler que le serveur soit lancé ou pas.  L'édition des pages 
 #### Sauvegardes, Envois
 Lorsque vous êtes satisfaits des modifications effectuées, vous créez un nouveau commit sur votre branche de travail. Pensez à bien indiquer les principales modifications effectuées.
 
-Poussez vos modifications sur votre dépôt. Vous pouvez ensuite faire une demande d'intégration au dépôt principal (_merge request_ ou _pull request_) depuis le site internet de la plate-forme.
+Poussez vos modifications sur votre dépôt.
 
-Les demandes sont à faire sur la branche **contributions**.
+## Envoyez vos propositions
+Vous pouvez ensuite faire une demande d'intégration de vos corrections au dépôt principal (_merge request_ ou _pull request_) depuis le site internet de la plate-forme.
+
+Les demandes de fusion sont à faire sur la branche **contributions**.
 
 
 [^1]: Nous utilisons [tortoise git][tortoise] et [fork][fork], mais nous le disons juste pour ceux qui auraient du mal à choisir. Il y a plein de très bons clients git.
+[^e]: Il est possible que python vous renvoie une erreur à cause du module tornado. Vous référer à [cette solution](https://github.com/tornadoweb/tornado/issues/2608#issuecomment-491489432) dans un tel cas.
 
 [git-clients]: https://git-scm.com/downloads/guis
 [mkdocs]: https://www.mkdocs.org/

@@ -1,13 +1,7 @@
 image: python:buster
 
 before_script:
-  - pip install mkdocs
-  - pip install mkdocs-material
-  - pip install mkdocs-awesome-pages-plugin
-  - pip install pymdown-extensions
-  - pip install markdown-blockdiag
-  - pip install markdown-include
-  - pip install mkdocs-pdf-export-plugin
+  - pip install -r py-requirements.txt
 
 pages:
   script:
