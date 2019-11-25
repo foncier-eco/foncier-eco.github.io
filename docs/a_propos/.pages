@@ -1,1 +1,6 @@
 title: A propos
+arrange:
+  - contribuer.md
+  - contribuer_au_depot.md
+  - aide
+  - partenaires.md

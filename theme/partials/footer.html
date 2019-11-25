@@ -55,12 +55,13 @@
             {% endif %}
           {% endif %}
           {% if config.repo_url and page %}
+            {% set repo = config.repo_url %}
             {% if repo | last == "/" %}
               {% set repo = repo[:-1] %}
             {% endif %}
-            {% set comment_url = config.repo_url + '/issues/new?issue%5Bdescription%5D=' + page.url + '%20>' %}
+            {% set comment_url = repo + '/issues/new?issue%5Bdescription%5D=' + page.url + '%20>' %}
             {% set mail_url = 'mailto:incoming+foncier-eco-foncier-eco-gitlab-io-14636881-issue-@incoming.gitlab.com?subject=' + page.url + '%20>' %}
-            {% set source_url = config.repo_url + 'tree/master/docs/' + page.url[:-1] + '.md'  %}
+            {% set source_url = repo + 'tree/master/docs/' + page.url[:-1] + '.md'  %}
             <li>
                 source  <a href="{{ source_url | url }}" title="code source de cette page"><i class="material-icons">code</i></a>
             </li>
