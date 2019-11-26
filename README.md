@@ -1,10 +1,10 @@
 _Le [dépôt principal][depot] du projet est sur Gitlab. Merci de déposer vos remarques et propositions de fusion à cet endroit_.
 
 # Foncier Economique
-Initié dans le cadre de plusieurs réflexions coordonnées sur le foncier et l'activité économique, ce site sert de support et de démonstrateur au [collectif foncier](./docs/a_propos/partenaires) pour mettre à disposition des ressources utiles aux acteurs dans ce domaine.
+Initié dans le cadre de plusieurs réflexions coordonnées sur le foncier et l'activité économique, ce site sert de support et de démonstrateur au [collectif foncier](./docs/a_propos/partenaires.md) pour mettre à disposition des ressources utiles aux acteurs dans ce domaine.
 
 ## Contribuer
-Le projet se veut ouvert aux commentaires et aux [contributions](./docs/a_propos/contribuer).
+Le projet se veut ouvert aux commentaires et aux [contributions](./docs/a_propos/contribuer.md).
 
 ## Licences
 

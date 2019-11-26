@@ -18,6 +18,7 @@ edit_uri: 'edit/contributions/docs'
 theme:
   name: material
   custom_dir: theme
+  logo: 'ext/images/logo.svg'
   language: fr
   font: false
   feature:
