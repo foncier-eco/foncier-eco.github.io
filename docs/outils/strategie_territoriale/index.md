@@ -12,43 +12,7 @@ Elle peut s'appuyer pour sa mise en oeuvre sur les [documents de planification][
 !!! info
     Les graphiques proposés ici sont une première ébauche. La réflexion est en cours pour les optimiser.
 
-![Schema stratégie](./strategie_economique.png)
-
-<div markdown="block" class="mermaid">
-graph TB
-  S("Stratégie de développement économique<br>définit le futur souhaité pour le territoire")
-  A(Schéma d'accueil des entreprises<br>confronte l'offre existante avec les ambitions<br>pour répondre aux besoins des entreprises)
-  O(Observatoire<br>état des lieux de l'offre foncière)
-S-->A
-A-.-O
-O-->S
-Sr-.-S
-subgraph Planification
-  Sr[SRADDET]-->Sc[SCoT]
-  Sc-->Pl[PLUi]
-end
-S-->Sc  
-Sc-.-A
-style S fill:#dad,stroke-width:3px
-</div>
-
-blockdiag {
-  orientation = portrait
-  S [label = "Stratégie de développement économique", color = "#dad"]
-  A [label = "Schéma d'accueil des entreprises"]
-  O [label = "Observatoire"]
-  Sr [label = "SRADDET"]
-  Sc [label = "SCoT"]
-  Pl [label = "PLUi"]
-  S -> A
-  S -> O [dir = "both"]
-  S -> Sr [dir = "none", style= "dotted"]
-  Sr -> Sc
-  Sc -> Pl
-  S -> Sc  
-  Sc -> A
-  A -> O [dir = "none", style= "dotted"]
-}
+![Schema stratégie](../../references/etudes/etude_optimisation_foncier_activite/schema_strategie_planification.svg)
 
 ## Pilotage et Mise en oeuvre
 Les collectivités en charge du développement économique sont particulièrement concernées, étant elles-mêmes souvent à la manoeuvre pour l'élaboration des documents de planification.
