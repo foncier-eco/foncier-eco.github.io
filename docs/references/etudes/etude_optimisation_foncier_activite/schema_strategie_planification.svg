@@ -8,15 +8,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="21cm"
-   height="14.5cm"
-   viewBox="83 -82.7 1091.351 753.56289"
-   version="1.1"
    id="svg181"
+   version="1.1"
+   viewBox="83 -83 1100 825"
+   class="text"
    sodipodi:docname="schema_strategie_planification.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <title
-     id="title20883">La stratégie de développement économique et son environnement</title>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -28,1327 +25,467 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
      inkscape:window-height="988"
-     id="namedview183"
+     id="namedview989"
      showgrid="false"
-     inkscape:zoom="1.3466476"
-     inkscape:cx="435.66504"
-     inkscape:cy="503.68744"
+     inkscape:zoom="0.67796541"
+     inkscape:cx="475.55547"
+     inkscape:cy="308.05589"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg181"
-     units="cm" />
-  <metadata
-     id="metadata2">
+     inkscape:current-layer="svg181" />
+  <title
+     id="title20883">
+    La stratégie de développement économique et son environnement
+  </title>
+  <metadata>
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>La stratégie de développement économique et son environnement</dc:title>
+        <dc:title>La stratégie territoriale de développement économique</dc:title>
         <dc:date>20191130</dc:date>
         <dc:creator>
           <cc:Agent>
             <dc:title>Gilles Coffin, Sylvain Comte</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:rights>
-          <cc:Agent>
-            <dc:title>Licence Ouverte</dc:title>
-          </cc:Agent>
-        </dc:rights>
         <dc:publisher>
           <cc:Agent>
-            <dc:title>DREAL Normandie</dc:title>
+            <dc:title>PRAXIDEV, DREAL Normandie</dc:title>
           </cc:Agent>
         </dc:publisher>
         <dc:language>fr-FR</dc:language>
-        <dc:description>La stratégie territoriale de développement économique dans son écosystème de documents stratégiques et réglementaires</dc:description>
+        <dc:description>Une vision de la stratégie territoriale de développement économique au sein de son écosystème réglementaire</dc:description>
+        <cc:license
+           rdf:resource="https://github.com/etalab/licence-ouverte/blob/master/open-licence.md" />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs109">
     <marker
-       inkscape:stockid="TriangleOutM"
+       id="fleche_debut"
        orient="auto"
-       refY="0"
        refX="0"
-       id="marker18676"
-       style="overflow:visible"
-       inkscape:isstock="true">
+       refY="0">
       <path
-         id="path18674"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         style="fill:#5c5c5c;fill-opacity:1;fill-rule:evenodd;stroke:#5c5c5c;stroke-width:1.00000003pt;stroke-opacity:1"
-         transform="scale(0.4)"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:stockid="TriangleInM"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker18546"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         id="path18544"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         style="fill:#5c5c5c;fill-opacity:1;fill-rule:evenodd;stroke:#5c5c5c;stroke-width:1.00000003pt;stroke-opacity:1"
+         id="path30837"
+         d="M 6,0 -3,5 V -5 Z"
          transform="scale(-0.4)"
          inkscape:connector-curvature="0" />
     </marker>
     <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker18204"
-       refX="0"
-       refY="0"
+       id="fleche_debut_vert"
        orient="auto"
-       inkscape:stockid="TriangleOutM"
-       inkscape:collect="always">
-      <path
-         transform="scale(0.4)"
-         style="fill:#5c5c5c;fill-opacity:1;fill-rule:evenodd;stroke:#5c5c5c;stroke-width:1.00000003pt;stroke-opacity:1"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path18202"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker18086"
        refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleInM"
-       inkscape:collect="always">
+       refY="0">
       <path
+         id="path979"
+         d="M 6,0 -3,5 V -5 Z"
          transform="scale(-0.4)"
-         style="fill:#5c5c5c;fill-opacity:1;fill-rule:evenodd;stroke:#5c5c5c;stroke-width:1.00000003pt;stroke-opacity:1"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path18084"
+         style="fill:#15c59f;fill-opacity:1;stroke:#15c59f;stroke-opacity:1"
          inkscape:connector-curvature="0" />
     </marker>
     <marker
-       inkscape:stockid="TriangleOutM"
+       id="fleche_fin"
        orient="auto"
-       refY="0"
        refX="0"
-       id="marker16748"
-       style="overflow:visible"
-       inkscape:isstock="true"
-       inkscape:collect="always">
+       refY="0">
       <path
-         id="path16746"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         style="fill:#5c5c5c;fill-opacity:1;fill-rule:evenodd;stroke:#5c5c5c;stroke-width:1.00000003pt;stroke-opacity:1"
+         id="path32643"
+         d="M 6,0 -3,5 V -5 Z"
          transform="scale(0.4)"
          inkscape:connector-curvature="0" />
     </marker>
     <marker
-       inkscape:stockid="TriangleInM"
+       id="fleche_fin_vert"
        orient="auto"
-       refY="0"
        refX="0"
-       id="marker16642"
-       style="overflow:visible"
-       inkscape:isstock="true"
-       inkscape:collect="always">
+       refY="0">
       <path
-         id="path16640"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         style="fill:#5c5c5c;fill-opacity:1;fill-rule:evenodd;stroke:#5c5c5c;stroke-width:1.00000003pt;stroke-opacity:1"
-         transform="scale(-0.4)"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker15292"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutM">
-      <path
+         id="path971"
+         d="M 6,0 -3,5 V -5 Z"
          transform="scale(0.4)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path15290"
+         style="fill:#15c59f;fill-opacity:1;stroke:#15c59f;stroke-opacity:1"
          inkscape:connector-curvature="0" />
     </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker14604"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutM">
-      <path
-         transform="scale(0.4)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path14602"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:stockid="TriangleOutM"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker14504"
-       style="overflow:visible"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path14502"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         transform="scale(0.4)"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker14410"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutM"
-       inkscape:collect="always">
-      <path
-         transform="scale(0.4)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path14408"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:stockid="TriangleOutM"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker14322"
-       style="overflow:visible"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path14320"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         style="fill:#616161;fill-opacity:1;fill-rule:evenodd;stroke:#5c5c5c;stroke-width:1.00000003pt;stroke-opacity:1"
-         transform="scale(0.4)"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker14240"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutM"
-       inkscape:collect="always">
-      <path
-         transform="scale(0.4)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path14238"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:stockid="TriangleOutM"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker14164"
-       style="overflow:visible"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path14162"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         transform="scale(0.4)"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker14088"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutM"
-       inkscape:collect="always">
-      <path
-         transform="scale(0.4)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path14086"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker14030"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutM"
-       inkscape:collect="always">
-      <path
-         transform="scale(0.4)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path14028"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker13984"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutM">
-      <path
-         transform="scale(0.4)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path13982"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:stockid="TriangleOutM"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="TriangleOutM"
-       style="overflow:visible"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path1642"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         transform="scale(0.4)"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker13900"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleInM">
-      <path
-         transform="scale(-0.4)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path13898"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker13872"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleInM"
-       inkscape:collect="always">
-      <path
-         transform="scale(-0.4)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path13870"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker13850"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleInM">
-      <path
-         transform="scale(-0.4)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path13848"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:stockid="TriangleInM"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="TriangleInM"
-       style="overflow:visible"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path1633"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         transform="scale(-0.4)"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <filter
-       id="e"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="2"
-         seed="176"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence4" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="5.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap6" />
-    </filter>
-    <filter
-       id="d"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="4"
-         seed="96"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence9" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="2.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap11" />
-    </filter>
-    <filter
-       id="g"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="4"
-         seed="96"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence14" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="2.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap16" />
-    </filter>
-    <filter
-       id="h"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="2"
-         seed="176"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence19" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="5.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap21" />
-    </filter>
-    <filter
-       id="c"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="4"
-         seed="96"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence24" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="2.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap26" />
-    </filter>
-    <filter
-       id="i"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="2"
-         seed="176"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence29" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="5.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap31" />
-    </filter>
-    <filter
-       id="k"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="4"
-         seed="96"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence34" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="2.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap36" />
-    </filter>
-    <filter
-       id="l"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="2"
-         seed="176"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence39" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="5.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap41" />
-    </filter>
-    <filter
-       id="n"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="4"
-         seed="96"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence44" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="2.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap46" />
-    </filter>
-    <filter
-       id="o"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="2"
-         seed="176"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence49" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="5.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap51" />
-    </filter>
-    <filter
-       id="p"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="4"
-         seed="96"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence54" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="2.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap56" />
-    </filter>
-    <filter
-       id="q"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="2"
-         seed="176"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence59" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="5.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap61" />
-    </filter>
-    <filter
-       id="w"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="2"
-         seed="176"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence64" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="5.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap66" />
-    </filter>
-    <filter
-       id="x"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="2"
-         seed="176"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence69" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="5.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap71" />
-    </filter>
-    <filter
-       id="y"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="2"
-         seed="176"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence74" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="5.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap76" />
-    </filter>
     <linearGradient
        id="b">
       <stop
+         id="stop97"
          offset="0"
-         stop-color="#79c6f0"
-         id="stop97" />
+         stop-color="#79c6f0" />
       <stop
+         id="stop99"
          offset="1"
          stop-color="#79c6f0"
-         stop-opacity="0"
-         id="stop99" />
+         stop-opacity="0" />
     </linearGradient>
     <linearGradient
        id="a">
       <stop
+         id="stop102"
          offset="0"
-         stop-color="#ff8080"
-         id="stop102" />
+         stop-color="#ff8080" />
       <stop
+         id="stop104"
          offset="1"
          stop-color="#ff8080"
-         stop-opacity="0"
-         id="stop104" />
+         stop-opacity="0" />
     </linearGradient>
     <linearGradient
-       xlink:href="#a"
        id="j"
-       x1="63.099998"
-       y1="812.40002"
-       x2="-152.89999"
-       y2="816.59998"
-       gradientUnits="userSpaceOnUse" />
+       x1="63.1"
+       x2="-152.9"
+       y1="812.4"
+       y2="816.6"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#a" />
     <linearGradient
-       xlink:href="#b"
        id="m"
-       x1="76.400002"
+       x1="76.4"
+       x2="-177.1"
        y1="-127.8"
-       x2="-177.10001"
        y2="-119.8"
-       gradientUnits="userSpaceOnUse" />
-    <pattern
-       y="0"
-       x="0"
-       height="6"
-       width="6"
-       patternUnits="userSpaceOnUse"
-       id="EMFhbasepattern" />
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#b" />
     <filter
-       style="color-interpolation-filters:sRGB"
-       id="e-0">
+       id="turb"
+       inkscape:label="turb"
+       x="-0.099999999999999992"
+       y="-0.099999999999999992"
+       width="1.1899999999999999">
       <feTurbulence
-         numOctaves="2"
-         seed="176"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence4-1" />
+         numOctaves="4" seed="96" baseFrequency="0.025 0.025" result="turbulence" />
       <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="5.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap6-0" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="d-4">
-      <feTurbulence
-         numOctaves="4"
-         seed="96"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence9-6" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="2.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap11-7" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="d-4-4">
-      <feTurbulence
-         numOctaves="4"
-         seed="96"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence9-6-5" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="2.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap11-7-6" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="e-0-0">
-      <feTurbulence
-         numOctaves="2"
-         seed="176"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence4-1-5" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="5.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap6-0-4" />
-    </filter>
-    <filter
-       id="p-8"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="4"
-         seed="96"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence54-6" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="2.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap56-8" />
-    </filter>
-    <filter
-       id="q-7"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="2"
-         seed="176"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence59-7" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="5.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap61-6" />
-    </filter>
-    <filter
-       id="p-8-1"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="4"
-         seed="96"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence54-6-1" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="2.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap56-8-5" />
-    </filter>
-    <filter
-       id="q-7-2"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="2"
-         seed="176"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence59-7-0" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="5.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap61-6-0" />
-    </filter>
-    <filter
-       id="p-8-1-1"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="4"
-         seed="96"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence54-6-1-3" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="2.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap56-8-5-5" />
-    </filter>
-    <filter
-       id="q-7-2-5"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="2"
-         seed="176"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence59-7-0-5" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="5.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap61-6-0-6" />
-    </filter>
-    <filter
-       id="d-6"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="4"
-         seed="96"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence9-9" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="2.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap11-72" />
-    </filter>
-    <filter
-       id="d-2"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="4"
-         seed="96"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence9-60" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="2.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap11-9" />
-    </filter>
-    <filter
-       id="d-6-2"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="4"
-         seed="96"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence9-9-0" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="2.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap11-72-5" />
-    </filter>
-    <filter
-       id="d-6-2-4"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="4"
-         seed="96"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence9-9-0-8" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="2.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap11-72-5-1" />
-    </filter>
-    <filter
-       id="d-3"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="4"
-         seed="96"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence9-63" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="2.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap11-99" />
-    </filter>
-    <filter
-       id="d-6-8"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="4"
-         seed="96"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence9-9-8" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="2.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap11-72-2" />
-    </filter>
-    <filter
-       id="d-3-6"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="4"
-         seed="96"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence9-63-9" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="2.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap11-99-6" />
-    </filter>
-    <filter
-       id="d-3-6-5"
-       style="color-interpolation-filters:sRGB">
-      <feTurbulence
-         numOctaves="4"
-         seed="96"
-         baseFrequency="0.025 0.025"
-         result="turbulence"
-         id="feTurbulence9-63-9-8" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="2.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap11-99-6-5" />
+         in="SourceGraphic" in2="turbulence" scale="2.1" yChannelSelector="G" xChannelSelector="R" />
     </filter>
   </defs>
-  <path
-     style="fill:#616161;fill-opacity:1;stroke:#5c5c5c;stroke-width:4.12510729;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14322);filter:url(#d-32)"
-     inkscape:connector-curvature="0"
-     id="path2703-3"
-     d="m 1096.013,249.32647 c 2.0004,44.97406 -1.2779,233.54966 -1.2779,233.54966"
-     sodipodi:nodetypes="cc" />
-  <path
-     d="M 395.04886,184.86928 C 335.51286,-14.554191 130.61051,54.315277 130.61051,54.315277"
-     id="path123"
-     inkscape:connector-curvature="0"
-     style="fill:none;stroke:#000000;stroke-width:4.80000019;marker-start:url(#TriangleInM);marker-end:url(#TriangleOutM);filter:url(#d)"
-     transform="rotate(-110.04495,339.14359,217.57172)"
-     sodipodi:nodetypes="cc" />
-  <path
-     transform="matrix(0.55828,-0.57783,0.48274,0.66824,-128.41336,-168.72081)"
-     d="M 986.66395,1241.3681 C 986.43539,1090.4656 820.2325,955.54857 820.2325,955.54857"
-     id="path163"
-     inkscape:connector-curvature="0"
-     style="fill:none;stroke:#000000;stroke-width:5.10868645;stroke-miterlimit:4;stroke-dasharray:none;marker-start:url(#marker13850);marker-end:url(#marker13984);filter:url(#d)"
-     sodipodi:nodetypes="cc" />
-  <path
-     d="m 459,89 c 10.98991,-14.028629 306.0205,-11.631486 318,0 9.57182,9.293746 10.63301,97.23947 0,110 -10.60579,12.72787 -308.20725,9.77102 -318,0 -10.15002,-10.12749 -11.4557,-95.37679 0,-110 z"
-     id="path115"
-     inkscape:connector-curvature="0"
-     transform="matrix(1.3735091,0,0,1.0203875,-312.92694,25.696936)"
-     style="fill:#7af1d7;fill-opacity:1;stroke:#000000;stroke-width:3.4000001;stroke-linecap:round;filter:url(#d)"
-     sodipodi:nodetypes="sssss" />
-  <text
-     y="87.617233"
-     x="626.62964"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:41.88595963px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:middle;filter:url(#e)"
-     font-weight="400"
-     font-size="40.3"
-     letter-spacing="0"
-     word-spacing="0"
-     id="text121"
-     transform="matrix(0.65241118,0,0,0.57557671,122.2175,93.092075)">
-    <tspan
-       sodipodi:role="line"
-       id="tspan1084"
-       x="626.62964"
-       y="87.617233">Stratégie de développement</tspan>
-    <tspan
-       sodipodi:role="line"
-       id="tspan1086"
-       x="626.62964"
-       y="139.97469">économique</tspan>
-  </text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.33380941px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.84260929;"
-     x="316.66705"
-     y="219.8774"
-     id="text1090"
-     transform="scale(1.0646555,0.93927101)"><tspan
-       sodipodi:role="line"
-       id="tspan28351">définit le futur souhaité pour le territoire</tspan></text>
-  <path
-     d="m 459,89 c 10.98991,-14.028629 306.0205,-11.631486 318,0 9.57182,9.293746 10.63301,97.23947 0,110 -10.60579,12.72787 -308.20725,9.77102 -318,0 -10.15002,-10.12749 -11.4557,-95.37679 0,-110 z"
-     id="path115-0"
-     inkscape:connector-curvature="0"
-     transform="matrix(1.4488785,0,0,1.1561653,-541.15566,394.11579)"
-     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.4000001;stroke-linecap:round;filter:url(#d-4)"
-     sodipodi:nodetypes="sssss" />
-  <text
-     y="659.82251"
-     x="-127.00171"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.88595963px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:middle;filter:url(#e-0)"
-     font-weight="400"
-     font-size="40.3"
-     letter-spacing="0"
-     word-spacing="0"
-     id="text121-2"
-     transform="matrix(0.65241118,0,0,0.57557671,436.9904,143.99899)">
-    <tspan
-       sodipodi:role="line"
-       id="tspan1140"
-       x="-127.00172"
-       y="659.82251">Schéma d'accueil des entreprises</tspan>
-  </text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.3338096px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.84260935;"
-     x="328.6225"
-     y="587.55267"
-     id="text1090-0"
-     transform="scale(1.0646555,0.93927099)"><tspan
-       sodipodi:role="line"
-       id="tspan28375">confronte l'offre existante présentée dans</tspan><tspan
-       sodipodi:role="line"
-       id="tspan28377">l'observatoire avec les ambitions du territoire</tspan><tspan
-       sodipodi:role="line"
-       id="tspan28379">pour organiser la réposne aux demandes</tspan><tspan
-       sodipodi:role="line"
-       id="tspan28381">des entreprises</tspan></text>
-  <path
-     d="m 459,89 c 10.98991,-14.028629 306.0205,-11.631486 318,0 9.57182,9.293746 10.63301,97.23947 0,110 -10.60579,12.72787 -308.20725,9.77102 -318,0 -10.15002,-10.12749 -11.4557,-95.37679 0,-110 z"
-     id="path115-0-1"
-     inkscape:connector-curvature="0"
-     transform="matrix(1.3735091,0,0,0.83441995,-294.88936,238.77646)"
-     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.4000001;stroke-linecap:round;filter:url(#d-4-4)"
-     sodipodi:nodetypes="sssss" />
-  <text
-     y="652.60236"
-     x="-127.00171"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.88595963px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:middle;filter:url(#e-0-0)"
-     font-weight="400"
-     font-size="40.3"
-     letter-spacing="0"
-     word-spacing="0"
-     id="text121-2-9"
-     transform="matrix(0.65241118,0,0,0.57557671,636.03641,-41.258746)">
-    <tspan
-       y="652.60236"
-       x="-127.00171"
-       id="tspan1223"
-       sodipodi:role="line">Observatoire</tspan>
-  </text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.3338096px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.84260935;"
-     x="515.58063"
-     y="390.31702"
-     id="text1090-0-3"
-     transform="scale(1.0646555,0.93927099)"><tspan
-       sodipodi:role="line"
-       id="tspan28359">dresse l'état des lieux de l'offre de foncier</tspan><tspan
-       sodipodi:role="line"
-       id="tspan28361">économique et les perspectives du territoire</tspan></text>
-  <path
-     transform="matrix(0.98002196,0,0,0.83976123,805.38534,-280.01448)"
-     d="M -349,277 H -32 V 387 H -349 Z"
-     id="path149"
-     inkscape:connector-curvature="0"
-     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.4000001;stroke-linecap:round;filter:url(#p)" />
-  <text
-     y="-118.02542"
-     x="966.04633"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.88595963px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;filter:url(#q)"
-     font-weight="400"
-     font-size="40.3"
-     letter-spacing="0"
-     word-spacing="0"
-     id="text153"
-     transform="matrix(0.66626118,0,0,0.61969131,-63.699801,49.507784)">
-    <tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.88595963px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-       y="-118.02542"
-       x="966.04633"
-       id="tspan151">SREII</tspan>
-  </text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.37950005px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.88353533;"
-     x="597.0224"
-     y="-3.8962879"
-     id="text1090-08"
-     transform="scale(1.0368945,0.96441831)"><tspan
-       sodipodi:role="line"
-       id="tspan28353">Schéma régional</tspan><tspan
-       sodipodi:role="line"
-       id="tspan28355">de développement économique</tspan><tspan
-       sodipodi:role="line"
-       id="tspan28357">d'innovation et d'internationalisation</tspan></text>
-  <path
-     transform="matrix(0.73226311,0,0,1.0995946,1166.7524,-188.12589)"
-     d="M -349,277 H -32 V 387 H -349 Z"
-     id="path149-1"
-     inkscape:connector-curvature="0"
-     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.4000001;stroke-linecap:round;filter:url(#p-8)" />
-  <text
-     y="-118.02542"
-     x="902.96533"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.88595963px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;filter:url(#q-7)"
-     font-weight="400"
-     font-size="40.3"
-     letter-spacing="0"
-     word-spacing="0"
-     id="text153-3"
-     transform="matrix(0.65241118,0,0,0.57557671,358.69707,218.2065)">
-    <tspan
-       y="-118.02542"
-       x="902.96533"
-       id="tspan1332"
-       sodipodi:role="line">SRADDETT</tspan>
-  </text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66704769px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.84260935;"
-     x="964.86926"
-     y="179.64243"
-     id="text1090-08-0"
-     transform="scale(1.0646555,0.93927099)"><tspan
-       sodipodi:role="line"
-       id="tspan28343">Schéma régional</tspan><tspan
-       sodipodi:role="line"
-       id="tspan28345">d'aménagement,</tspan><tspan
-       sodipodi:role="line"
-       id="tspan28347">de développement durable</tspan><tspan
-       sodipodi:role="line"
-       id="tspan28349">et d'égalité des territoires</tspan></text>
-  <path
-     transform="matrix(0.73226311,0,0,1.0995946,1166.7524,1.4207566)"
-     d="M -349,277 H -32 V 387 H -349 Z"
-     id="path149-1-8"
-     inkscape:connector-curvature="0"
-     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.4000001;stroke-linecap:round;filter:url(#p-8-1)" />
-  <text
-     y="-129.31517"
-     x="976.00647"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.88595963px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;filter:url(#q-7-2)"
-     font-weight="400"
-     font-size="40.3"
-     letter-spacing="0"
-     word-spacing="0"
-     id="text153-3-7"
-     transform="matrix(0.65241118,0,0,0.57557671,352.92095,411.36321)">
-    <tspan
-       y="-129.31517"
-       x="976.00647"
-       id="tspan1421"
-       sodipodi:role="line">SCoT</tspan>
-  </text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.3338096px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.84260935;"
-     x="965.54749"
-     y="389.13126"
-     id="text1090-08-0-7"
-     transform="scale(1.0646555,0.93927099)"><tspan
-       sodipodi:role="line"
-       id="tspan28363">traduit les ambitions</tspan><tspan
-       sodipodi:role="line"
-       id="tspan28365">de la stratégie</tspan><tspan
-       sodipodi:role="line"
-       id="tspan28367">en préconisations</tspan></text>
-  <path
-     transform="matrix(0.73226311,0,0,1.0995946,1166.7524,189.52338)"
-     d="M -349,277 H -32 V 387 H -349 Z"
-     id="path149-1-8-1"
-     inkscape:connector-curvature="0"
-     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.4000001;stroke-linecap:round;filter:url(#p-8-1-1)" />
-  <text
-     y="-129.31517"
-     x="976.00647"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.88595963px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;filter:url(#q-7-2-5)"
-     font-weight="400"
-     font-size="40.3"
-     letter-spacing="0"
-     word-spacing="0"
-     id="text153-3-7-6"
-     transform="matrix(0.65241118,0,0,0.57557671,352.92095,599.46583)">
-    <tspan
-       y="-129.31517"
-       x="976.00647"
-       id="tspan1483"
-       sodipodi:role="line">PLUi</tspan>
-  </text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.3338096px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.84260935;"
-     x="965.54749"
-     y="589.39575"
-     id="text1090-08-0-7-4"
-     transform="scale(1.0646555,0.93927099)"><tspan
-       sodipodi:role="line"
-       id="tspan28369">traduit les enjeux</tspan><tspan
-       sodipodi:role="line"
-       id="tspan28371">du SCoT de manière</tspan><tspan
-       sodipodi:role="line"
-       id="tspan28373">réglementaire</tspan></text>
-  <path
-     style="fill:none;stroke:#000000;stroke-width:9.84812069;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker15292);filter:url(#d)"
-     inkscape:connector-curvature="0"
-     id="path2703"
-     d="M 340.25115,250.09963 C 353.95202,213.41426 398.06033,45.55431 398.06033,45.55431"
-     transform="matrix(-0.44032234,-0.18688493,0.30672399,-0.26828553,707.72364,181.60492)"
-     sodipodi:nodetypes="cc" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:9.84812069;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker14504);filter:url(#d-6)"
-     inkscape:connector-curvature="0"
-     id="path2703-4"
-     d="M 253.72105,359.15786 C 220.72958,332.06106 104.51333,220.30571 104.51333,220.30571"
-     transform="matrix(0.36364071,0.23000302,-0.38931635,0.23625043,597.99731,173.05601)"
-     sodipodi:nodetypes="cc" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:9.84812069;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker14164);filter:url(#d-6-2)"
-     inkscape:connector-curvature="0"
-     id="path2703-4-7"
-     d="M 331.92503,284.89625 C 271.9106,261.95405 158.91551,213.60547 158.91551,213.60547"
-     transform="matrix(-0.16574665,-0.37318542,0.40558814,-0.14537024,968.69396,394.70454)"
-     sodipodi:nodetypes="cc" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:9.84812069;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker14240);filter:url(#d-6-2-4)"
-     inkscape:connector-curvature="0"
-     id="path2703-4-7-5"
-     d="M 331.25665,279.58805 C 271.24222,256.64585 158.58133,210.95137 158.58133,210.95137"
-     transform="matrix(-0.16574665,-0.37318543,0.40558814,-0.14537024,970.95863,584.24247)"
-     sodipodi:nodetypes="cc" />
-  <path
-     transform="matrix(-0.09278017,-0.79809517,0.82282132,0.05047459,-87.613648,1154.7039)"
-     d="M 981.27065,1306.9197 C 862.05542,1170.4518 827.33165,946.42146 827.33165,946.42146"
-     id="path163-1"
-     inkscape:connector-curvature="0"
-     style="fill:none;stroke:#000000;stroke-width:5.10868645;stroke-miterlimit:4;stroke-dasharray:none;marker-start:url(#marker13900);marker-end:url(#marker14088);filter:url(#d-3)"
-     sodipodi:nodetypes="cc" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:9.84812069;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker14410);filter:url(#d-6-8)"
-     inkscape:connector-curvature="0"
-     id="path2703-4-4"
-     d="M 454.88689,186.27764 C 385.81468,212.64426 179.14,214.51665 179.14,214.51665"
-     transform="matrix(-0.27514205,0.23000302,0.48021884,0.23625043,475.69617,330.50015)"
-     sodipodi:nodetypes="cc"
-     inkscape:transform-center-x="-54.395422"
-     inkscape:transform-center-y="14.237629" />
-  <path
-     transform="matrix(-0.09278017,-0.79809518,0.82282132,0.05047459,-658.22765,749.05585)"
-     d="m 695.6959,1969.6865 c 56.10875,-53.5197 91.84031,-136.228 91.84031,-136.228"
-     id="path163-1-5"
-     inkscape:connector-curvature="0"
-     style="fill:none;stroke:#000000;stroke-width:5.10868645;stroke-miterlimit:4;stroke-dasharray:none;marker-start:url(#marker13872);marker-end:url(#marker14030);filter:url(#d-3-6)"
-     sodipodi:nodetypes="cc" />
-  <path
-     sodipodi:nodetypes="cc"
-     style="fill:none;stroke:#5c5c5c;stroke-width:5.10868645;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker16642);marker-end:url(#marker16748);filter:url(#d-3-6)"
-     inkscape:connector-curvature="0"
-     id="path16638"
-     d="m 693.93304,1962.042 c 27.52494,-50.4391 3.61542,-115.1523 3.61542,-115.1523"
-     transform="matrix(-0.09278017,-0.79809518,0.82282132,0.05047459,-656.18549,823.59473)" />
-  <path
-     transform="matrix(-0.09278017,-0.79809518,0.82282132,0.05047459,-768.50436,893.02821)"
-     d="m 560.88362,2083.5441 c 10.70839,-144.2645 136.66484,-236.6544 136.66484,-236.6544"
-     id="path18082"
-     inkscape:connector-curvature="0"
-     style="fill:none;stroke:#5c5c5c;stroke-width:5.10868645;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker18086);marker-end:url(#marker18204);filter:url(#d-3-6)"
-     sodipodi:nodetypes="cc" />
-  <path
-     sodipodi:nodetypes="cc"
-     style="fill:none;stroke:#5c5c5c;stroke-width:5.10868645;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker18546);marker-end:url(#marker18676);filter:url(#d-3-6)"
-     inkscape:connector-curvature="0"
-     id="path18542"
-     d="M 718.77122,2071.5645 C 721.605,2045.5433 690.5924,1736.9017 690.5924,1736.9017"
-     transform="matrix(-0.09278017,-0.79809518,0.82282132,0.05047459,-748.08275,1044.1481)" />
+  <style
+     id="style31631"
+     type="text/css">
+     g{filter:url(#turb)}marker {overflow:visible;}.fleche{stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#fleche_fin)}.double{marker-start:url(#fleche_debut)}.titre{font-size:25;text-align:center;line-height:1.25;font-family:'Segoe Print';text-anchor:middle;stroke:none}.texte{font-size:18;text-align:center;font-family:'Segoe Print';text-anchor:middle;line-height:1.25;stroke:none}.petit{font-size:15px}.cadre{fill:#ffffff;fill-opacity:.9;stroke:#000000;stroke-width:4}.noir{stroke:black}.vert{stroke:#15c59f}.fleche.vert marker{fill:#7af1d7}
+  </style>
+  <g
+     id="schema">
+    <path
+       id="path30831"
+       d="M1074 271s15 109 3 225"
+       class="fleche vert"
+       style="marker-end:url(#fleche_fin_vert)" />
+    <path
+       id="path29403"
+       d="M 877.61315,552 C 731.61315,551 659,451 659,451"
+       class="fleche double vert"
+       style="fill:none;stroke:#15c59f;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#fleche_debut_vert);marker-end:url(#fleche_fin_vert)"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path123"
+       d="M273 207c-127 40-101 283-101 283"
+       class="fleche double noir" />
+    <path
+       id="path163"
+       d="M1015 118C958 0 792 12 792 12"
+       class="fleche double noir" />
+    <path
+       id="Strategie"
+       d="M459 89c11-14 306-12 318 0 10 9 11 97 0 110s-308 10-318 0-11-95 0-110z"
+       class="cadre fond_vert"
+       transform="matrix(1.3735 0 0 1.02039 -317 48)"
+       style="fill:#7af1d7" />
+    <text
+       id="text121"
+       x="535"
+       y="162"
+       class="titre"
+       style="font-size:25px;line-height:1.25;font-family:'Segoe Print';text-align:center;text-anchor:middle;stroke:none">
+      <tspan
+         sodipodi:role="line"
+         id="tspan991"
+         y="162"
+         x="535">Stratégie de développement</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan993"
+         y="193.25"
+         x="535">économique</tspan>
+    </text>
+    <text
+       id="text1090"
+       class="texte"
+       xml:space="preserve"
+       style="font-size:18px;line-height:1.25;font-family:'Segoe Print';text-align:center;text-anchor:middle;stroke:none"
+       x="540"
+       y="230"><tspan
+         id="tspan28351">définit le futur souhaité pour le territoire</tspan></text>
+    <path
+       id="Schema"
+       d="M459 89c11-14 306-12 318 0 10 9 11 97 0 110s-308 10-318 0-11-95 0-110z"
+       class="cadre"
+       transform="matrix(1.44888 0 0 1.15617 -545 417)" />
+    <text
+       id="text121-2"
+       x="350"
+       y="542"
+       class="titre"
+       style="font-size:25px;line-height:1.25;font-family:'Segoe Print';text-align:center;text-anchor:middle;stroke:none">
+      <tspan
+         id="tspan1140">Schéma daccueil des entreprises</tspan>
+    </text>
+    <text
+       id="text1090-0"
+       x="350"
+       y="572"
+       class="texte"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.99997139px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:none"><tspan
+         sodipodi:role="line"
+         id="tspan1041"
+         x="350"
+         y="572">confronte l'offre existante présentée dans</tspan><tspan
+         sodipodi:role="line"
+         id="tspan1043"
+         x="350"
+         y="594.49994">l'observatoire avec les ambitions du territoire</tspan><tspan
+         sodipodi:role="line"
+         id="tspan1045"
+         x="350"
+         y="616.99994">pour organiser la réponse aux demandes</tspan><tspan
+         sodipodi:role="line"
+         id="tspan1047"
+         x="350"
+         y="639.49988">des entreprises</tspan></text>
+<a xlink:href="../../../outils/connaissance/observatoire_foncier_eco" target="_top">
+    <path
+       id="Observatoire"
+       d="M459 89c11-14 306-12 318 0 10 9 11 97 0 110s-308 10-318 0-11-95 0-110z"
+       class="cadre"
+       transform="matrix(1.3735 0 0 .83442 -299 261)" />
+    <text
+       id="text121-2-9"
+       x="542"
+       y="360"
+       class="titre"
+       style="font-size:25px;line-height:1.25;font-family:'Segoe Print';text-align:center;text-anchor:middle;stroke:none">
+      <tspan
+         id="tspan1223">Observatoire</tspan>
+    </text>
+    <text
+       id="text1090-0-3"
+       x="542"
+       y="390"
+       class="texte"
+       xml:space="preserve"
+       ><tspan
+         sodipodi:role="line"
+         id="tspan1037"
+         x="535"
+         y="390">dresse l'état des lieux de l'offre de foncier</tspan><tspan
+         sodipodi:role="line"
+         id="tspan1039"
+         x="538.60352"
+         y="412.49997">économique et les perspectives du territoire  </tspan></text>
+</a>
+    <path
+       id="SRDE2I"
+       d="M -349,263.33798 H -32 L -32,387 h -317 z"
+       class="cadre"
+       transform="matrix(0.98002,0,0,0.83976,801,-258)"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:0.9;stroke:#000000;stroke-width:4"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       id="text153"
+       x="615"
+       y="-10"
+       class="titre"
+       style="font-size:25px;line-height:1.25;font-family:'Segoe Print';text-align:center;text-anchor:middle;stroke:none">
+      <tspan
+         id="tspan151">SRE2I</tspan>
+    </text>
+    <text
+       id="text1090-08"
+       x="615"
+       y="12"
+       class="texte petit"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.99994659px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:none"><tspan
+         sodipodi:role="line"
+         id="tspan1031"
+         x="615"
+         y="10">Schéma régional</tspan><tspan
+         sodipodi:role="line"
+         id="tspan1033"
+         x="615"
+         y="28.749933">de développement économique</tspan><tspan
+         sodipodi:role="line"
+         id="tspan1035"
+         x="615"
+         y="47.499866">d'innovation et d'internationalisation</tspan></text>
+    <path
+       id="SRADDET"
+       d="M896 139h232v121H896z"
+       class="cadre" />
+    <text
+       id="text153-3"
+       x="1012"
+       y="165"
+       class="titre"
+       style="font-size:25px;line-height:1.25;font-family:'Segoe Print';text-align:center;text-anchor:middle;stroke:none">
+      <tspan
+         id="tspan1332">SRADDET</tspan>
+    </text>
+    <text
+       id="text1090-08-0"
+       x="1012"
+       y="190"
+       class="texte petit"
+       xml:space="default"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:none">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1011"
+         x="1012"
+         y="194">Schéma régional</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1013"
+         x="1012"
+         y="212.75">d'aménagement</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1015"
+         x="1012"
+         y="231.5">de développement durable</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1017"
+         x="1012"
+         y="250.25">et d'égalité des territoires</tspan>
+    </text>
+    <path
+       id="SCoT"
+       d="M 894.96016,332.52212 H 1128 V 452.95196 H 894.96016 Z"
+       class="cadre"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:0.9;stroke:#000000;stroke-width:4"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       id="text153-3-7"
+       x="1012"
+       y="360"
+       class="titre"
+       style="font-size:25px;line-height:1.25;font-family:'Segoe Print';text-align:center;text-anchor:middle;stroke:none">
+      <tspan
+         id="tspan1421">SCoT</tspan>
+    </text>
+    <text
+       id="text1090-08-0-7"
+       x="1012"
+       y="389"
+       class="texte"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:none"><tspan
+         sodipodi:role="line"
+         id="tspan1019"
+         x="1012"
+         y="389">traduit les ambitions</tspan><tspan
+         sodipodi:role="line"
+         id="tspan1021"
+         x="1012"
+         y="411.5">de la stratégie</tspan><tspan
+         sodipodi:role="line"
+         id="tspan1023"
+         x="1012"
+         y="434">en préconisations</tspan></text>
+    <path
+       id="PLUi"
+       d="m 899,512 h 233.675 V 633 H 900 Z"
+       class="cadre"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:0.9;stroke:#000000;stroke-width:4"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       id="text153-3-7-6"
+       x="1012"
+       y="542"
+       class="titre"
+       style="font-size:25px;line-height:1.25;font-family:'Segoe Print';text-align:center;text-anchor:middle;stroke:none">
+      <tspan
+         id="tspan1483">PLUi</tspan>
+    </text>
+    <text
+       id="text1090-08-0-7-4"
+       x="1012"
+       y="572"
+       class="texte"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.99997139px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:none"><tspan
+         sodipodi:role="line"
+         id="tspan1025"
+         x="1012"
+         y="572">traduit les enjeux</tspan><tspan
+         sodipodi:role="line"
+         id="tspan1027"
+         x="1012"
+         y="594.49994">du SCoT de manière</tspan><tspan
+         sodipodi:role="line"
+         id="tspan1029"
+         x="1012"
+         y="616.99994">réglementaire</tspan></text>
+    <path
+       id="path2703"
+       d="M598 62c-38 24-52 51-52 51"
+       class="fleche noir" />
+    <path
+       id="path2703-4"
+       d="M530 337c4-28 1-71 1-71"
+       class="fleche noir" />
+    <path
+       id="path2703-4-7"
+       d="m 978,267 2.52149,61.21492"
+       class="fleche noir"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#fleche_fin)"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path2703-4-4"
+       d="M444 517c44-25 68-66 68-66"
+       class="fleche noir" />
+    <path
+       id="path163-1-5"
+       d="M 880.05436,335.65613 C 816.05436,305.65613 848,224 782,194"
+       class="fleche double noir"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#fleche_debut);marker-end:url(#fleche_fin)"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path34747"
+       d="M985 441l2 58"
+       class="fleche noir" />
+    <path
+       id="path44097"
+       d="m 876.57016,430.08597 c -67,11 -181.05436,141.95701 -265.05436,146.95701"
+       class="fleche double noir"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#fleche_debut);marker-end:url(#fleche_fin)"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path30101"
+       d="m 890,380 c -41,2 -91,0 -91,0"
+       class="fleche double vert"
+       style="fill:none;stroke:#15c59f;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#fleche_debut_vert);marker-end:url(#fleche_fin_vert)"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path18542"
+       d="m 888,603 c -207.7598,-8.30088 -304.11757,7 -304.11757,7"
+       class="fleche double vert"
+       style="fill:none;stroke:#15c59f;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#fleche_debut_vert);marker-end:url(#marker973)"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
 </svg>

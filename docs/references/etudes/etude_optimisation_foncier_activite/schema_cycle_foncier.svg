@@ -12,18 +12,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>La cycle de vie du foncier économique</dc:title>
+        <dc:title>Le cycle de vie du foncier économique</dc:title>
         <dc:date>20191130</dc:date>
         <dc:creator>
           <cc:Agent>
             <dc:title>Sylvain Grisot, Sylvain Comte</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:rights>
-          <cc:Agent>
-            <dc:title>Licence Ouverte</dc:title>
-          </cc:Agent>
-        </dc:rights>
         <dc:publisher>
           <cc:Agent>
             <dc:title>dixit.net, DREAL Normandie</dc:title>
@@ -31,6 +26,8 @@
         </dc:publisher>
         <dc:language>fr-FR</dc:language>
         <dc:description>Une vision d'un cycle de vie durable des zones d'activités économiques</dc:description>
+        <cc:license
+           rdf:resource="https://github.com/etalab/licence-ouverte/blob/master/open-licence.md" />
       </cc:Work>
     </rdf:RDF>
   </metadata>

@@ -9,9 +9,6 @@ La stratégie permet de sortir d'une logique d'offre non différenciée, parfois
 
 Elle peut s'appuyer pour sa mise en oeuvre sur les [documents de planification][planification], les contrats de territoire ou encore les appels à projets...
 
-!!! info
-    Les graphiques proposés ici sont une première ébauche. La réflexion est en cours pour les optimiser.
-
 ![Schema stratégie](../../references/etudes/etude_optimisation_foncier_activite/schema_strategie_planification.svg)
 
 ## Pilotage et Mise en oeuvre
@@ -26,7 +23,7 @@ La stratégie ne devrait donc surtout pas se limiter à des calculs de surface d
 
 Une attention particulière à l'organisation des territoires voisins et un dialogue avec ces territoires pour des stratégies coordonnées sont naturellement recommandés.
 
-[observatoire-ZAE]: ../connaissance/observatoire_foncier_eco
-[planification]: ../planification
+[observatoire-ZAE]: ../connaissance/observatoire_foncier_eco.md
+[planification]: ../planification/index.md
 
 <script>mermaid.initialize({startOnLoad:true, theme:"neutral", fontFamily:"Sans serif"});</script>
