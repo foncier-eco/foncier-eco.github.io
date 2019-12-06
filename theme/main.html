@@ -14,10 +14,11 @@
       {% if page.meta.index %}
 
       {% endif %}
-      {% if page.meta.authors or page.meta.url or page.meta.date %}
+      {% if page.meta.editor or page.meta.authors or page.meta.url or page.meta.date %}
         <div class="admonition info">
         <p class="admonition-title">A propos</p>
-        <p>{% if page.meta.authors %}{{ page.meta.authors }}{% endif %}
+        <p>{% if page.meta.editor %}{{ page.meta.editor }}</br>{% endif %}
+           {% if page.meta.authors %}{{ page.meta.authors }}{% endif %}
            {% if page.meta.authors and page.meta.date %} - {% endif %}
            {% if page.meta.date %}{{ page.meta.date }}{% endif %}
            {% if page.meta.authors or page.meta.date %}<br/>{% endif %}
@@ -25,7 +26,7 @@
            <a href="{{ page.meta.url }}">Plus d'informations</a>
            {% endif %}
            {% if page.meta.isbn %}
-           <br><a href="https://catalogue.bnf.fr/rechercher.do?motRecherche={{ page.meta.isbn }}">ISBN {{ page.meta.isbn }}</a> {% endif %}
+           <br><i class="m-icons petit">public</i> <a href="https://catalogue.bnf.fr/rechercher.do?motRecherche={{ page.meta.isbn }}">ISBN {{ page.meta.isbn }}</a> {% endif %}
          </p>
         </div>
       {% endif %}

@@ -6,41 +6,50 @@ _il serait sans doute intéressant d'avoir un mail vers un **secrétariat** pour
 
 <div markdown="1" class="three cols">
 !!! contact "CCI Normandie"
-    <i class="m-icons">public</i> [site internet](https://www.normandie.cci.fr/)<br/>
-    Laurent Lesimple
+    Laurent Lesimple<br/>
+    <i class="m-icons petit">public</i> [site internet](https://www.normandie.cci.fr/)
+
 
 !!! contact "Département de l'Eure"
-    <i class="m-icons">public</i> [site internet](https://eureennormandie.fr/accueil/les-actions-du-departement/economie-numerique/)<br/>
-    Anne-Laure Urbain
+    Anne-Laure Urbain<br/>
+    <i class="m-icons petit">public</i> [site internet](https://eureennormandie.fr/accueil/les-actions-du-departement/economie-numerique/)
+
 
 !!! contact "Région Normandie"
-    <i class="m-icons">public</i> [site internet](https://normandie.fr)<br/>
-    Virginie Grenet, Fabrice Fossey
+    Virginie Grenet, Fabrice Fossey<br/>
+    <i class="m-icons petit">public</i> [site internet](https://normandie.fr)
+
 
 !!! contact "Chambre d'Agriculture"
-    <i class="m-icons">public</i> [site internet](https://normandie.chambreagri.fr)<br/>
-    Mathieu Dewulf
+    Mathieu Dewulf<br/>
+    <i class="m-icons petit">public</i> [site internet](https://normandie.chambreagri.fr)
+
 
 !!! contact "Chambre des métiers"
-    <i class="m-icons">public</i> [site internet](https://cm-27.fr/)<br/>
-    Bernard Behot  
+    Bernard Behot<br/>
+    <i class="m-icons petit">public</i> [site internet](https://cm-27.fr/)     
 
 !!! contact "EPF Normandie"
-    <i class="m-icons">public</i> [site internet](https://epf-normandie.fr)<br/>
-    Franck Fourreau
+    Franck Fourreau<br/>
+    <i class="m-icons petit">public</i> [site internet](https://epf-normandie.fr)
+
 
 !!! contact "DREAL et DDTM de Normandie"
-    <i class="m-icons">public</i> [site internet](http://normandie.developpement-durable.gouv.fr)<br/>
-    Caroline Maury, Hélène Buhot, Sylvain Comte
+    Caroline Maury, Hélène Buhot<br/>
+    <i class="m-icons petit">public</i> [site internet](http://normandie.developpement-durable.gouv.fr)<br/>
+    _Sylvain Comte_
 
 !!! contact "CEREMA"
-    <i class="m-icons">public</i> [site internet](https://www.cerema.fr/fr/cerema/directions/cerema-normandie-centre)<br/>
-    Gaëlle Schauner
+    Gaëlle Schauner<br/>
+    <i class="m-icons petit">public</i> [site internet](https://www.cerema.fr/fr/cerema/directions/cerema-normandie-centre)<br/>
+    _Nathalie Léglise_
 
 </div>
 
 ## Ils contribuent (ou ont contribué) au Collectif
 
-* [PRAXIDEV](http://normandie.developpement-durable.gouv.fr)
-* [Dixit](http://normandie.developpement-durable.gouv.fr)
-* [FIDAL](http://normandie.developpement-durable.gouv.fr)
+<div markdown="1" class="quatre colonnes">
+* [PRAXIDEV](http://praxidev.com/)
+* [Dixit](https://dixit.net/)
+* [FIDAL](https://www.fidal.com/fr/region/normandie)
+</div>
