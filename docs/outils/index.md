@@ -6,36 +6,31 @@ Des outils et méthodes utilisables pour la mise en oeuvre de stratégie fonciè
 A l'appui de ce cycle de vie, le système comporte 3 champs d'actions transversaux relatifs à la stratégie et à l'organisation de l'activité économiques
 
 <div markdown="1" class="three cols">
-!!! doc "[la connaissance et l'observation](./connaissance/)"
+!!! doc "[la connaissance et l'observation](./connaissance/observatoire_foncier_eco.md)"
 
-!!! contact "[la stratégie économique](./strategie/)"
+!!! contact "[la stratégie économique](./strategie/index.md)"
 
-!!! map "[la planification](./planification/)"    
+!!! map "[la planification](./planification/SCoT.md)"    
 
 </div>
 
 Le système comporte 2 champs d'actions transversaux qui correspondent plus spécifiquement à la dimension sociale des ZAE
 
 <div markdown="1" class="two cols">
-!!! contact "[la gestion et l'animation](./vie_ZA/)"
+!!! contact "[la gestion et l'animation](./vie_ZA/index.md)"
 
-
-!!! recycle "[l'écologie industrielle et territoriale](./EIT/)"
+!!! recycle "[l'écologie industrielle et territoriale](./EIT/installer_demarche_eit.md)"
 
 </div>
 
 Enfin, on retrouve une série d'outils et méthodes à visée plus _opérationnelle_
 
 <div markdown="1" class="three cols">
-!!! map "[usages fonciers](./foncier/)"
+!!! map "[usages fonciers](./foncier/optimisation_performance_foncier_et_bati.md)"
 
 !!! label "[normes et labels](./labels/)"
 
 !!! euro "[finances et fiscalité](./finances/)"
 </div>
-
-
-
-
 
 [^cycle]: Schéma du cycle de vie des ZAE<br/>![cycle de vie des ZAE](../references/etudes/etude_optimisation_foncier_activite/schema_cycle_foncier.svg)
