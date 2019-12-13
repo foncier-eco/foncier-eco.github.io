@@ -35,7 +35,7 @@ Le contact avec le propriétaire permet de cerner les enjeux spécifiques de cel
 ### Accompagner l’exercice
 La mise en œuvre de l’opération passe par une division foncière, la viabilisation du lot créé (réseaux, accès…) puis la cession et la réalisation du projet de construction de l’acquéreur. La Collectivité est directement impliquée par différentes étapes du processus, mais peut aussi jouer un rôle de facilitateur global de la démarche.
 
-### Recommandations
+## Recommandations
 Le rôle de la Collectivité est théoriquement d’initier le processus privé, avec pour objectif d’offrir une réponse foncière complémentaire à la demande des entreprises sans création de nouvelle ZAE, ou en prolongeant la durée de commercialisation de celles qui le sont encore. Cependant, deux obstacles importants peuvent freiner ce processus et nécessiter une implication plus importante de la Collectivité :
 
 * Le vieillissement de certaines ZAE réduit considérablement leur potentiel de commercialisation. Dans ce cas, la mise en œuvre d’une opération de réhabilitation globale portant notamment sur les espaces publics peut être un préalable nécessaire à l’amorçage d’une dynamique privée de densification,

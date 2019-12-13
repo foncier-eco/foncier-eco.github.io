@@ -243,6 +243,18 @@ article .md-search__input:hover, article .md-search__input:focus, article .md-se
   padding:0;
 }
 
+.five.cols {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.five>.admonition {
+  flex-basis: 32%;
+  max-width: 32%;
+  flex-grow: 1;
+}
+
 @media (min-width:50em) {
   img[alt$=">"], div[alt$=">"] {
     float: right;
@@ -265,6 +277,18 @@ article .md-search__input:hover, article .md-search__input:focus, article .md-se
   .three>.admonition {
     flex-basis: 49%;
     max-width: 49%;
+    flex-grow: 1;
+  }
+
+  .four>.admonition {
+    flex-basis: 32%;
+    max-width: 32%;
+    flex-grow: 1;
+  }
+
+  .five>.admonition {
+    flex-basis: 23%;
+    max-width: 23%;
     flex-grow: 1;
   }
 
@@ -303,6 +327,18 @@ article .md-search__input:hover, article .md-search__input:focus, article .md-se
   .three>.admonition, .three>div {
     flex-basis: 31%;
     max-width: 31%;
+    flex-grow: 1;
+  }
+
+  .four>.admonition {
+    flex-basis: 24%;
+    max-width: 24%;
+    flex-grow: 1;
+  }
+
+  .five>.admonition {
+    flex-basis: 19%;
+    max-width: 19%;
     flex-grow: 1;
   }
 

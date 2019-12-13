@@ -50,10 +50,10 @@ Des **principes d’aménagement** peu efficaces :
 Des **formes bâties et implantations** peu efficaces :
 
 * L’existence de contraintes réglementaires qui imposent parfois des implantations en milieu de parcelle, limitant les potentiels de densification ultérieurs ;
-* Une réglementation limitant la constructibilité et potentiellement génératrice de sous-densité (multiplication des couches de contraintes, règles d’implantation…) ;
-* Des formes bâties standardisées peu efficaces (construction à plat, absence d’étages, espaces non modulables, etc.) ;
 * Une logique de commercialisation à la parcelle, sans réflexion d’ensemble sur le bâti, qui conduit aussi à une implantation peu organisée des bâtis les uns par rapport aux autres, sans recherche d’économies d’espaces ;
-* Les choix d’implantation des bâtiments, avec une recherche de visibilité depuis les axes routiers, qui engendrent une multiplication des bandes inconstructibles.
+* Une réglementation limitant la constructibilité et potentiellement génératrice de sous-densité (multiplication des couches de contraintes, règles d’implantation…) ;
+* Les choix d’implantation des bâtiments, avec une recherche de visibilité depuis les axes routiers, qui engendrent une multiplication des bandes inconstructibles ;
+* Des formes bâties standardisées peu efficaces. Des construction à plat, une absence d’étages, des espaces non modulables, peu de réflexion sur la mutabiité future voire la déconstruction de ces bâtiments etc.
 
 Des zones d’activités aménagées prioritairement pour la **circulation routière** :
 
@@ -66,7 +66,7 @@ Des zones d’activités aménagées prioritairement pour la **circulation routi
 !!! idee "Quelques pistes pour améliorer la situation"
     Nous devons innover en matière de design et de gestion foncière
 
-    * **Anticiper le caractère vivant des ZAE**, prévoir des **capacités d’évolution** dans le temps des parcelles voire des bâtiments,
+    * **Anticiper le caractère vivant des ZAE**, prévoir des **capacités d’évolution** dans le temps **des parcelles et des bâtiments**,
     * Prévoir **plus d’espaces pour des fonctions mutualisables** au sein des zones pour les services dont tous ont besoins,
     * Mieux exploiter les possibilités de **superposition des fonctions**,
     * La conception doit reposer sur une logique de [cycle de vie de la ZAE](scenarios.md) et de **coût global** intégrant les futures étapes de **requalification voire de renaturation**.

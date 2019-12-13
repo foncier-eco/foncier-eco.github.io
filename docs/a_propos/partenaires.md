@@ -35,7 +35,7 @@ _il serait sans doute intéressant d'avoir un mail vers un **secrétariat** pour
 
 
 !!! contact "DREAL et DDTM de Normandie"
-    Caroline Maury, Hélène Buhot<br/>
+    Caroline Maury, Hélène Buhot, Hervé Lericolais<br/>
     <i class="m-icons petit">public</i> [site internet](http://normandie.developpement-durable.gouv.fr)<br/>
     _Sylvain Comte_
 

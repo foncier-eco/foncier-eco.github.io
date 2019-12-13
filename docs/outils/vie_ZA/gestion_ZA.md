@@ -2,26 +2,28 @@ title: Mettre en place une gestion de zone d'activités
 
 La zone d’activités d’aujourd’hui est un lieu de vie économique certes mais aussi celui de la rencontre entre plusieurs communautés d’acteurs : entreprises, fournisseurs, clients, salariés, dirigeants… La ZAE se doit de proposer un environnement, des équipements et une gestion favorable de la vitalité de la ZAE, qui doit être structurée, réfléchie en fonction des besoins des différents « usagers » de la ZAE dans une logique de mise en synergie. La gestion, au-delà des aspects matériels et infrastructures, intègre l’animation, « donner de la vie » et sa coordination.
 
-Les zones d'activités disposant d'une fonction de gestion sont plus robustes, résilientes et souvent mieux vécues par l'ensemble des usagers et riverains. Le terme _gestion_ est en effet un terme large, qui peut recouvrir de nombreux champs d'actions :
+Les zones d’activités disposant d’une fonction de gestion sont plus robustes, résilientes et souvent mieux vécues par l’ensemble des usagers et riverains. Le terme _gestion_ est en effet un terme large, qui peut recouvrir de nombreux champs d’actions :
 
-* La gouvernance, voire la _démocratie_ de la ZAE pour
-    * Définir les orientations pour l'accueil des entreprises, contribuer à la [stratégie économique](../strategie_territoriale/index) territoriale,    
+* La gouvernance, voire la démocratie de la ZAE pour
+    * Définir les orientations pour l’accueil des entreprises, contribuer à la [stratégie économique territoriale](../strategie_territoriale/index.md),
     * Evaluer les besoins en matière de services et les prioriser,
-    * Elaborer et faire évoluer les règles de _vie commune_
-    * Faire vivre une démarche qualité ou une démarche environnementale, qu'elle soit porté ou pas par un [label](./labels_ZA)
-* [L'animation](./gestionnaire_animateur)
+    * Elaborer et faire évoluer les règles de vie commune
+    * Faire vivre une démarche qualité ou une démarche environnementale, qu’elle soit portée ou pas par un [label](./labels_ZA)
+*  [L'animation](./gestionnaire_animateur)
     * Informer les entreprises,
     * Créer du lien entre les différents acteurs,
     * Initier les synergies entre entreprises,
 * La représentation
-    * Faire l'interface entre les entreprises occupantes, propriétaires et les acteurs publics ou les riverains,
+    * Faire l’interface entre les entreprises occupantes, propriétaires et les acteurs publics ou les riverains,
     * Accueillir les nouvelles entreprises et les accompagner dans leur implantation,
-    * Assurer la communication de la zone et sa promotion sur l'ensemble des supports,
-* La modernisation et l'amélioration de la ZAE
-    * Proposer des évolutions en fonction des opportunités foncières sur le plan de zonage, l'aménagement paysager, l'insertion urbaine...
-    * Mener des études et analyses pour identifier les opportunités, la concurrence, anticiper les aléas de marché et l'évolution de la demande,
+    * Assurer la communication de la zone et sa promotion sur l’ensemble des supports,
+* La modernisation et l’amélioration de la ZAE
+    * Proposer des évolutions en fonction des opportunités foncières sur le plan de zonage, l’aménagement paysager, l’insertion urbaine...
+    * Mener des études et analyses pour identifier les opportunités, la concurrence, anticiper les aléas de marché et l’évolution de la demande,
 * La réalisation opérationnelle
-    * Assurer la maitrise d'ouvrage des travaux validés dans le cadre de la gouvernance existante.
+    * Assurer la maîtrise d’ouvrage des travaux validés dans le cadre de la gouvernance existante.
+
+La zone d’activités d’aujourd’hui est un lieu de vie économique certes mais aussi celui de la rencontre entre plusieurs communautés d’acteurs : entreprises, fournisseurs, clients, salariés, dirigeants… La ZAE se doit de proposer un environnement, des équipements et une gestion favorable de la vitalité de la ZAE, qui doit être structurée, réfléchie en fonction des besoins des différents « usagers » de la ZAE dans une logique de mise en synergie. La gestion, au-delà des aspects matériels et infrastructures, intègre l’animation, « donner de la vie » et sa coordination.
 
 ## Mise en oeuvre
 <div alt="parole d'élu >">
@@ -53,9 +55,60 @@ Un _comité technique_ comprenant les partenaires du parc et les acteurs du terr
 Ces comités sont aussi dépendant des équilibre en place et des participations financières. Ils peuvent être composé de :
 
 * élus et représentants des services de la collectivité concernée (aménagement, développement économique, environnement…) et des services techniques,
-* représentants d’entreprises de la zone d’activités,
-* partenaires locaux pertinents,
-* représentant des riverains de la ZAE
+* représentants d’entreprises de la zone d’activités;
+* partenaires locaux pertinents;
+* représentant des riverains de la ZAE;
 * …
 
-[^1]: Le mécénat de compétences ...
+## Outils juridiques et financiers mobilisables
+Les collectivités et/ou les acteurs de la zone devront choisir l’outil juridique pour la gestion de la zone
+
+### Gestion de la zone sous la forme d’un partenariat contractuel
+Il est conclu par la signature entre les acteurs d’une « charte » de la gestion de la zone définissant son fonctionnement et les participations matérielles et financières de chacun. A ce titre, certaines entreprises pourront utiliser le mécénat de compétences.
+
+Il faut **bien encadrer la rédaction du contrat** pour éviter les désaccords entre les acteurs sur le financement et notamment en cas de sortie d’une entreprise pour quelle que raison que ce soit.
+
+### Gestion de la zone par une structure juridique ad hoc
+Différentes formes juridiques peuvent être adoptées pour cette structure. Les plus simples et adaptées sont sans doute l’association et le GIE.
+
+**L’association**[^asso]
+
+Elle permet de s’organiser librement selon les choix de ses membres fondateurs lors de sa constitution par le contrat d’association qui prend la forme de statuts auxquels les nouveaux membres adhérent également. Son objet peut être large sous réserve de ne pas aboutir au partage des bénéfices entre les membres.
+
+<table>
+<thead><tr><th width="49%">Avantages</th><th width="49%">Inconvénients</th></tr></thead>
+<tbody>
+<tr>
+  <td>Collaboration entre partenaires privés et publics possible</td>
+  <td rowspan="5">La structure peut être soumise (totalement ou partiellement) aux impôts si elle exerce une ou des activité(s) lucrative(s)</td></tr>
+<tr><td>Grande liberté statutaire</td></tr>
+<tr><td>Large choix dans la gouvernance</td></tr>
+<tr><td>Régime de droit privé du personnel</td></tr>
+<tr><td>Comptabilité de droit privé</td></tr>
+</tbody>
+</table>
+
+Le **groupement d’intérêt économique (GIE)**[^gie]
+
+Il s’agit de constituer entre les membres, pour une durée déterminée, un groupement « en vue de mettre en œuvre tous les moyens propres à faciliter ou à développer l’activité économique de ses membres, à améliorer ou à accroître les résultats de cette activité ». Cette forme juridique est plus encadrée dans sa constitution et son fonctionnement. Notamment, le GIE doit obligatoirement mettre en place un contrôle de gestion exercé par une ou des personnes physiques.
+
+Autre particularité : Les membres du GIE sont tenus responsables indéfiniment et solidairement au paiement des dettes du groupement à l’égard des tiers. Entre eux, le contrat constitutif peut prévoir la contribution de chaque membre au paiement des dettes.
+
+<table>
+<thead><tr><th width="49%">Avantages</th><th width="49%">Inconvénients</th></tr></thead>
+<tbody>
+<tr>
+  <td>Grande souplesse dans la rédaction des statuts</td>
+  <td rowspan="2">Responsabilité indéfinie et solidaire des membres par rapport aux dettes du groupement (au-delà de la responsabilité commune à tous les dirigeants de structures pour faute de gestion)</td></tr>
+<tr><td>Structure adaptée à la mise en commun de moyens et au lancement d’actions communes</td></tr>
+<tr>
+  <td>Régime de droit privé du personnel</td>
+  <td rowspan="2">Mise en œuvre d’un contrôle de gestion</td>
+</tr>
+<tr><td>Comptabilité de droit privé</td></tr>
+</tbody>
+</table>
+
+[^1]: Un mécénat de compétences consiste pour une entreprise à mettre à disposition sans contrepartie financière des collaborateurs sur leur temps de travail pour réaliser des actions d’intérêt général mobilisant ou non leurs compétences.
+[^asso]: régie par les dispositions de la loi du 1er juillet 1901 et de son décret d’application du 16 août 1901.
+[^gie]: régi par les articles L.251-1 à L.251-23 et R.251-1 à R.251-3 du Code de commerce.

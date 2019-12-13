@@ -10,10 +10,10 @@ La méthode privilégiée reste de [déposer un ticket sur le dépôt][issues].
 ## Proposer un contenu
 Les méthodes déjà évoquées restent valides pour proposer un contenu, un retour d'expérience ou une référence nouvelle.
 
-Le format préféré est la [syntaxe markdown][markdown], car il facilite le travail d'intégration, mais n'est pas obligatoire. En fonction du type de contribution certains éléments sont attendus.
+Le format préféré est la [syntaxe markdown](./aide/syntaxe_markdown.md), car il facilite le travail d'intégration, mais n'est pas obligatoire. En fonction du type de contribution certains éléments sont attendus.
 
 ??? abstract "Pour les études et guides"
-    * **les auteurs**, qu'il s'agisse de personnes physiques ou morales
+    * **les auteurs** et **l'éditeur** qu'il s'agisse de personnes physiques ou morales
     * **la date** d'édition
     * si possible une **adresse de téléchargement** ou sur le site de l'éditeur
 
@@ -21,15 +21,13 @@ Le format préféré est la [syntaxe markdown][markdown], car il facilite le tra
     * **les contacts** à privilégier pour en savoir plus
     * si possible **un site internet** proposant des informations complémentaires
 
-
 ## Directement au code
-Il est également possible de [proposer directement des modifications](./contribuer_au_depot.md) aux pages via le code du site. Les propositions se font sur la branche _contributions_, indifféremment sur Gitlab ou Github.
+Il est également possible de [proposer directement des modifications](./aide/contribuer_au_depot.md) aux pages via le code du site. Les propositions se font sur la branche _contributions_, indifféremment sur Gitlab ou Github.
 
 Il suffit de demander un accès sur l'une de ces plate formes. Un compte est nécessaire. Pour les moins ferrus de technique, nous recommandons l'utilisation de stackedit.io
 
 [mail]: mailto:incoming+foncier-eco-foncier-eco-gitlab-io-14636881-issue-@incoming.gitlab.com?subject=Foncier-Eco
 [issues]: https://gitlab.com/foncier-eco/foncier-eco.gitlab.io/issues
-[markdown]: ./aide/syntaxe_markdown
 
 
 

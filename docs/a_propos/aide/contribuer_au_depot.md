@@ -29,8 +29,8 @@ Pour l'instant, avec cette méthode vous pourrez avoir une idée de ce que donne
 #### Installations et préparation
 Le wiki utilise [mkdocs][mkdocs] avec un certain nombre d'extensions. Il vous faudra donc préparer votre poste pour travailler dessus :
 
-* Installez un [client git][git-clients] pour récupérer les données de votre dépôt et envoyer vos modifications[^1].
-* Installez [python][python]
+* Installez un [client git][git-clients] pour récupérer les données de votre dépôt et envoyer vos modifications[^1];
+* Installez [python][python] en version 3.x - Pypy doit fonctionner aussi;
 * Installez mkdocs et les extensions requises :
 
 ```bash
