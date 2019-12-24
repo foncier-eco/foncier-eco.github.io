@@ -2,7 +2,7 @@ title: Les partenaires du Collectif Foncier
 
 ## Les "permanents"
 
-_il serait sans doute intéressant d'avoir un mail vers un **secrétariat** pour centraliser les contacts génériques. Indépendamment du mail qui permet de poster des tickets pour le site web_
+_Pour l'heure il n'y a pas de secrétariat désigné au_ Collectif. _Vous pouvez toutefois utiliser le système de tickets pour adresser vos remarques et commentaires. Des liens figurent au bas de chaque page du site_.
 
 <div markdown="1" class="three cols">
 !!! contact "CCI Normandie"
@@ -34,7 +34,7 @@ _il serait sans doute intéressant d'avoir un mail vers un **secrétariat** pour
     <i class="m-icons petit">public</i> [site internet](https://epf-normandie.fr)
 
 
-!!! contact "DREAL et DDTM de Normandie"
+!!! contact "DDTM et DREAL de Normandie"
     Caroline Maury, Hélène Buhot, Hervé Lericolais<br/>
     <i class="m-icons petit">public</i> [site internet](http://normandie.developpement-durable.gouv.fr)<br/>
     _Sylvain Comte_

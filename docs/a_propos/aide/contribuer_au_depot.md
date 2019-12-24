@@ -1,14 +1,14 @@
 title: Contribuer directement au code
 
-_Les éléments présentés ici pourront paraitre technique pour les personnes qui n'ont jamais utilisé un outil de gestion de version. Un peu de pratique suffit pour constater qu'il n'en est rien. Toutefois nous proposons d'autres possibilités pour [contribuer](./contribuer.md) à ceux que cela effraierait trop_
+_Les éléments présentés ici pourront paraitre technique pour les personnes qui n'ont jamais utilisé un outil de gestion de version. Un peu de pratique suffit pour constater qu'il n'en est rien. Toutefois nous proposons d'autres possibilités pour [contribuer](../contribuer.md) à ceux que cela effraierait trop_
 
-Le prérequis indispensable pour les méthodes présentées ici est de disposer d'un compte sur github ou gitlab.
+Le prérequis indispensable pour les méthodes présentées ici est de disposer d'un compte sur gitlab ou github.
 
 ## Créez votre _fork_
 
 * Rendez vous sur le dépôt du projet sur la plate-forme de votre choix :
-  * Gitlab (de préférence)
-  * Github
+    * [Gitlab][gitlab] (de préférence)
+    * [Github][github]
 * Cliquez sur le bouton ''Fork'' et suivez les instructions pour ajouter ce projet à vos projets ou à ceux de votre organisation.
 
 La plate-forme vient de vous créer une version du projet pour vous à l'adresse `https://gitlab.com/votre_identifiant/nom_de_votre_projet`. Elle reste liée au projet principal et vous permettra de soumettre vos modifications le moment venu.
@@ -62,10 +62,12 @@ Vous pouvez ensuite faire une demande d'intégration de vos corrections au dép�
 Les demandes de fusion sont à faire sur la branche **contributions**.
 
 
-[^1]: Nous utilisons [tortoise git][tortoise] et [fork][fork], mais nous le disons juste pour ceux qui auraient du mal à choisir. Il y a plein de très bons clients git.
+[^1]: Nous utilisons [tortoise git][tortoise] et [fork][fork], mais nous le disons juste pour ceux qui auraient du mal à choisir. Il y a plein de très bons [clients git][git-clients].
 
 [git-clients]: https://git-scm.com/downloads/guis
 [mkdocs]: https://www.mkdocs.org/
 [python]: https://www.python.org/
 [tortoise]: https://tortoisegit.org/
 [fork]: https://git-fork.com/
+[gitlab]: https://gitlab.com/
+[github]: https://github.com/
