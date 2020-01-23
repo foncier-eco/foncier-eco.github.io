@@ -4,7 +4,7 @@ title: Livre Blanc des ZAE de l'Eure
 
 ## Objectifs
 
-L’aménagement et la gestion des Zones d’Activités Économiques (ZAE) constituent l’un des piliers de la vitalité et de l’attractivité d’un territoire. C’est pourquoi, le Département de l’Eure et la CCI Portes de Normandie ont mené une réflexion sur les ZAE à l’échelle départementale. À ce titre, une révision de la Stratégie Départementale des ZAE (SDZAE), élaborée en 2012, a été engagée au cours de l’année 2018 avec pour objectifs de constituer un document ressource visant à soutenir les intercommunalités dans leurs décisions.
+![couverture >](livre_blanc_eure.jpg) L’aménagement et la gestion des Zones d’Activités Économiques (ZAE) constituent l’un des piliers de la vitalité et de l’attractivité d’un territoire. C’est pourquoi, le Département de l’Eure et la CCI Portes de Normandie ont mené une réflexion sur les ZAE à l’échelle départementale. À ce titre, une révision de la Stratégie Départementale des ZAE (SDZAE), élaborée en 2012, a été engagée au cours de l’année 2018 avec pour objectifs de constituer un document ressource visant à soutenir les intercommunalités dans leurs décisions.
 
 Le Département de l’Eure et la CCI Portes de Normandie ont souhaité associer les territoires dès le début à l’élaboration de cette nouvelle stratégie d’aménagement des ZAE en les conviant à deux ateliers collectifs de sensibilisation et de réflexion sur les enjeux liés à cette thématique et à une rencontre bilatérale.
 
