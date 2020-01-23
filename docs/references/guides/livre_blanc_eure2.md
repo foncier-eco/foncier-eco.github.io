@@ -36,7 +36,7 @@ Accompagnement pris en charge totalement ou partiellement par le Département et
 ## Marche à suivre
 Prendre contact avec les services du Département de l’Eure.
 
-##Contact
+## Contact
 
 Direction de l’aménagement du territoire
 Pôle attractivité du territoire
@@ -44,7 +44,7 @@ valerie.auffray@eure.frSchéma Départemental des ZAE (SDZAE)
 
  
 
-##Objectifs
+## Objectifs
 L’aménagement et la gestion des Zones d’Activités Économiques (ZAE) constituent l’un des piliers de la vitalité et de l’attractivité d’un territoire. C’est pourquoi, le Département de l’Eure et la CCI Portes de Normandie ont mené une réflexion sur les ZAE à l’échelle départementale. À ce titre, une révision de la Stratégie Départementale des ZAE (SDZAE), élaborée en 2012, a été engagée au cours de l’année 2018 avec pour objectifs de constituer un document ressource visant à soutenir les intercommunalités dans leurs décisions.
 
 Le Département de l’Eure et la CCI Portes de Normandie ont souhaité associer les territoires dès le début à l’élaboration de cette nouvelle stratégie d’aménagement des ZAE en les conviant à deux ateliers collectifs de sensibilisation et de réflexion sur les enjeux liés à cette thématique et à une rencontre bilatérale.
@@ -52,7 +52,7 @@ Le Département de l’Eure et la CCI Portes de Normandie ont souhaité associer
 ## Bénéficiaires
 Etablissement public de coopération intercommunale (EPCI)
 
-##Actions éligibles
+## Actions éligibles
 Le Département accompagnent des EPCI avec pour objectifs de :
 
 * disposer d’un état des lieux des ZAE dans l’Eure ;
@@ -71,7 +71,7 @@ Tout EPCI sollicitant le Département
 ## Montant
 Accompagnement pris en charge totalement ou partiellement par le Département et la CCI dans le cadre de leur convention de partenariat
 
-##Marche à suivre
+## Marche à suivre
 Prendre contact avec les services du Département de l’Eure.
 
  
@@ -79,4 +79,4 @@ Prendre contact avec les services du Département de l’Eure.
 ## Contact
 Direction de l’aménagement du territoire
 Pôle attractivité du territoire
-valérie.auffray@eure.fr
+valerie.auffray@eure.fr
