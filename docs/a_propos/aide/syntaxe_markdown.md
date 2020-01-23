@@ -3,7 +3,7 @@ revision: 2019-12-13
 
 # La syntaxe markdown
 
-Pour formater votre texte vous avez la possibilité d'utiliser la syntaxe markdown[^1] qui permet à partir d'une mise en forme en format texte de produire des documents structurés.
+Pour formater votre texte vous avez la possibilité d'utiliser la syntaxe _markdown_[^md] qui permet à partir d'une mise en forme en format texte de produire des documents structurés.
 
 ## Titres
 Pour faire un titre, vous devez mettre un `#` devant la ligne. Pour faire un titre plus petit, ajoutez un `#` (jusque 6) :
@@ -127,6 +127,9 @@ Les notes de bas de page permettent d'alléger le texte[^nbp]
 
 [^nbp]: cela permet de laisser le lecteur se concentrer sur le fond du texte tout en lui offrant la possibilité d'approfondir le sujet si il le souhaite.
 
+!!! warning "Attention"
+    la numérotation dépend de l'ordre d'apparition des notes (`[^note]:`) et pas de l'ordre d'apparition des renvois dans le texte (`[^note]`).
+
 ## Admonitions
 Les _admonitions_ permettent de placer des encadrés avec un petit logo pour mettre en exergue certains éléments. On place `!!!` au début de la ligne du titre (ou `???` pour un bloc dépliable), puis le type (voir liste), puis le titre entre `""`. Le texte contenu dans le bloc doit quant à lui être **indenté de 4 espaces**.
 
@@ -190,3 +193,5 @@ Quelques types d'admonitions
 
 * [Writing with markdown](https://www.mkdocs.org/user-guide/writing-your-docs/#writing-with-markdown) un guide (en anglais) sur la syntaxe markdown - Site officiel de MkDocs
 * Eléments ajoutés par le thème _material_ utilisé sur ce site dont [Admonition](https://squidfunk.github.io/mkdocs-material/extensions/admonition/) et [Footnotes](https://squidfunk.github.io/mkdocs-material/extensions/footnotes/) - Site officiel de MkDocs-material
+
+[^md]: voir la page [markdown](https://fr.wikipedia.org/wiki/Markdown) sur Wikipedia
