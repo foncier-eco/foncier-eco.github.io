@@ -1,4 +1,5 @@
 authors: CCI CA DREAL Région SAFER et EPF Normandie, DDTM de Seine-Maritime, PNR Boucles de la Seine, Agences d'urbanisme de Rouen Le Havre et Caen, CEREMA
+editor: CCI Normandie
 title: Evaluer le potentiel foncier dans le cadre du PLUi
 date: juin 2018
 summary: mémo technique à l’usage des collectivités normandes pour assurer une plus grande cohésion dans la gestion du foncier à l’échelle régionale. Ce guide est le fruit d’un partenariat, composé d’organismes publics.
