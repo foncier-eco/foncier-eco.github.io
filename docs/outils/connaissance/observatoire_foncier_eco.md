@@ -39,6 +39,6 @@ Certains sujets pourtant importants pour la vie des ZAE sont malheureusement, fr
 
 !!! doc "Aller plus loin"
     * [Observer et connaître les zones d’activités économiques](../../references/syntheses/observer_connaitre_ZAE-cerema.md) - synthèse du Cerema
-    * [Cartofriches][cartofriches.md], un outil pour capitaliser et mutualiser la connaissance des friches
+    * [Cartofriches](cartofriches.md), un outil pour capitaliser et mutualiser la connaissance des friches
 
 [strategie_eco_territoriale]: ../strategie_territoriale/index.md

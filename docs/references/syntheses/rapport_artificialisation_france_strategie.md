@@ -7,6 +7,6 @@ tags: guide artificialisation
 url: https://www.vie-publique.fr/sites/default/files/rapport/pdf/194000639.pdf
 img: rapport-artificialisation-fs-2019.png
 
-![couverture >](rapport-artificialisation-fs-2019.jpg) Ce _rapport public_ rappelle un certain nombre de notions essentielles autour de l'artificialisation, sa définition et ses modalités de mesure.
+![couverture >](rapport-artificialisation-fs-2019.png) Ce _rapport public_ rappelle un certain nombre de notions essentielles autour de l'artificialisation, sa définition et ses modalités de mesure.
 
 Mettant ensuite en avant quelques déterminants essentiels de la consommation d'espaces il propose des pistes d'action ou d'évolution des politiques publiques ainsi qu'un agenda de mise en oeuvre.
